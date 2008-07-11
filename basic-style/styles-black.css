@@ -1,0 +1,92 @@
+
+/* 
+Style noir du site, a ajouter à style.css
+*/
+
+#page{
+	background: black;
+	color: white;
+	}
+
+/*  Petit menu avec les principaux raccourcis 
+******************************************************************/
+#shortMenu{
+	border-bottom: 1px solid white;
+	}
+
+#shortMenu a:hover{
+	text-decoration: none;
+	color:blue;
+	}
+	
+/* Menu principal du site
+******************************************************************/
+#mainMenu li a:hover{
+	color: blue;
+	}
+
+/* Contenu principal
+******************************************************************/
+#content .page-title{
+  background: url(img/bandeauNuage.gif) center right no-repeat;
+  }
+
+#content a{
+	color: white;
+	/*text-decoration: none;*/
+	/*color: #225500;	*/
+	}
+#content a:hover{
+	color: blue;
+	/*color: #A60000;*/
+	}
+	
+#content h1{
+  color: white;
+  text-align: right;
+  font-weight: normal;
+  font-size: 270%;
+  margin: 0.5em 0 1em 0;
+  }
+	
+
+/*
+
+L'agenda 
+
+*****************************************************************
+*/
+
+.agenda {
+	position: relative;
+	left: 0px;
+	width: 540px;
+	border: none;
+	border-bottom: 1px solid white;
+	background: black;
+	margin: 10px 0 20px 0;
+	overflow: auto;
+	}
+
+.agenda h2{
+  color: blue;
+  font-size: 140%;
+	margin: 10px 5px 10px 5px;
+	}
+.agenda h3{
+  color: white;
+	font-size: 120%;
+	font-style: italic;
+	font-weight: normal;
+	margin: 10px 5px 10px 5px;
+	}
+.agenda img{
+	border: none;
+	margin-right: 5px;
+	margin-left: 5px;
+	}
+.agenda a{
+		color: red;
+		text-decoration: underline;
+		}
+

@@ -1,0 +1,323 @@
+
+/* Feuille de style du site de Samba Resille
+*  Olivier de Méringo  (http://samba-resille.org)
+******************************************************************/
+
+/*  Définitions communes à toute la page
+******************************************************************/
+
+* {margin:0; padding:0} /* fixer toutes les marges à 0 sur tous les éléments de type bloc */
+
+
+body{
+	margin: 10px 0 10px 0;
+	padding: 0;
+	text-align: center; /* hack ie 5 pour centrer la page (ne connait pas marges auto)*/
+	background: black;
+	color: black;
+	font-size: 75%;
+	/*font-family:"Bitstream Vera Sans", Verdana, Arial, Helvetica, Serif;*/
+	font-family: Verdana, Geneva, sans-serif;
+	}
+#page{
+	position: relative;
+	padding: 0;
+	margin: 0 auto 0 auto;
+	border: 1px solid white;
+	width:800px;
+	background: #fcc92c url(img/fondHaut.jpg) top no-repeat;
+	text-align: left; /* pour annuler le hack ie 5 pour les navigateurs normaux */
+	}
+
+
+ul{
+
+    margin: 0;
+
+    padding: 0;
+    list-style-position: inside; /*Force IE a placer les bullets dans la boite */
+
+    }    
+	
+/* Bandeau du haut de page
+******************************************************************/
+
+#bannerTitle{	
+	height: 100px;
+	width:800px;
+	background: #c7000d url("img/headerBannerMaelCard.png") top left no-repeat;
+	}
+/*La définition qui suit sert à cacher le titre qui est repris dans le bandeau*/	
+#bannerTitle h1, #bannerTitle p{
+	text-indent: -5000px;
+	line-height: 0px;
+}
+
+/*  Petit menu avec les principaux raccourcis 
+******************************************************************/
+#shortMenu{
+	margin: 0;
+
+    padding: 0;
+    width: 800px;
+	list-style-type: none;
+	background-color: black;
+	color: white;
+	text-align: right;
+	}
+
+#shortMenu ul{
+
+    margin: 0;
+
+    padding: 0;
+
+    }
+#shortMenu li{
+	display: inline;
+	margin: 0 1em;	
+	}
+#shortMenu a{
+	color: white;
+	text-decoration: none;
+	}
+#shortMenu a:hover{
+	text-decoration: underline;
+	}
+	
+/* Menu principal du site
+******************************************************************/
+#mainMenu{
+	position: absolute;
+	top: 130px;
+	left: 20px;	
+	width: 180px;
+
+    height: 230px;
+    margin: 0 0 20px 0;
+   	/*border: 1px solid #FBC92C;*/
+	}
+	
+#mainMenu ul{
+	list-style-type: none;
+	margin-left: -10px;
+	padding-left: 0px;
+	}
+#mainMenu li {
+
+    /*font-weight: bold;*/
+
+	}
+#mainMenu li a{
+	text-decoration: none;
+	color: white;
+	text-indent: 0em;
+	}
+#mainMenu li a:hover{
+	color: black;
+	}
+/*
+Encadré dernière minute
+******************************************************************/
+
+#expo{
+	width: 170px;
+	background: #fbff7c;	
+	}
+#expo strong{
+	margin: 5px;	
+	}
+
+/* Encadré de news
+******************************************************************/
+#news{
+	position: absolute;
+	top: 400px;
+	left:20px;
+	width: 170px;
+	border: 1.5px solid #A60000;
+	background: #fbff7c;
+	}
+
+	#news h1{
+		margin: 0.5em;	
+	 	font-size: 100%;
+		color: #A60000;
+		}
+	#news p{
+		margin: 0.5em;
+		}
+	#news a{
+		color: black;
+		text-decoration: none;
+		}
+	#news a:hover{
+		color: #A60000;
+		}
+	#news hr{
+		border: 1px solid #A60000; 
+		}   
+	#news ul{
+	    padding: 0;
+	    margin: 0;
+	     }
+		#news li{
+			color: #228822;
+			}		
+			
+
+/* Contenu principal
+******************************************************************/
+#content{
+	position: relative;
+	top: 0;
+	left: 20px;
+	margin: 0px 40px 0px 200px;
+	overflow: auto;
+	/*border: 1px solid black;*/
+	/*background: #fbff7c;*/
+	/*background: grey;*/
+	/*background: url("img/facade.gif") bottom right no-repeat;*/
+	}
+
+
+#content p{
+	padding: 5px 5px 5px 5px;
+	/*overflow: auto;*/
+	}
+
+#content .imageBasPage{
+	border: none;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	z-index: 0;
+	}	
+#content h1{
+	margin: 1.5em 0 1em 0;
+	font-size: 200%;
+	font-weight: bold;
+	color: white;
+	}
+h2{
+	margin: 2em 0 1em 0;
+	font-weight: bold;
+	font-size: 110%;
+	padding-bottom: 0.2em;
+	}
+a{
+	color: white;
+	text-decoration: none;
+	/*color: #225500;	*/
+	}
+a:hover{
+	color: black;
+	/*color: #A60000;*/
+	}
+
+    
+.right {
+	float: right;
+	}
+.left {
+	float: left
+	}
+
+
+li{
+
+    margin: 0 0.5em 0.5em 0.5em;
+	/*display: block;*/
+	list-style-position: inside;
+	text-indent: 0;
+	/*list-style-type: none;*/
+	}
+	
+img{
+	/*border: 1px solid #A60000;*/	
+	margin: 0;
+	padding: 0;
+	}
+img.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+img.right {
+	margin: 1em 0 1em 1em;
+	/*display: inline;*/
+	}
+img.left {
+	margin: 1em 1em 1em 0;
+	/*display: inline;*/
+	}
+	
+/*
+
+L'agenda 
+
+******************************************************************/
+
+.agenda {
+	position: relative;
+	left: 0px;
+	width: 540px;
+	border: 2px dotted red;
+	background: #fbff7c;
+	margin: 10px 0 20px 0;
+	overflow: auto;
+	}
+
+.agenda h2{
+	margin: 10px 5px 10px 5px;
+	}
+.agenda h3{
+	font-size: 100%;
+	font-style: italic;
+	font-weight: normal;
+	margin: 10px 5px 10px 5px;
+	}
+.agenda img{
+	border: none;
+	margin-right: 5px;
+	margin-left: 5px;
+	}
+.agenda a{
+		color: #A60000;
+		text-decoration: underline;
+		}
+
+/* La page de liens
+******************************************************************/
+.links h2{
+	font-size: 120%;
+	margin-bottom: 1px;
+	color: #228822;
+	border: 2px dotted red;
+	background: #fbff7c;
+	}
+	
+	
+/* Bas de page / mentions légales
+******************************************************************/
+#legal {
+	margin: 200px 0 0 0;
+	font-size: 75%;
+	border-top: 1px solid;
+	color: #A60000;
+	clear: both;
+	}
+#legal p{
+	margin: 10px 0 10px 200px;
+	}
+
+#legal a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #A60000;
+	}	
+#legal img{
+	/*float: left;*/
+	border: none;
+	margin-right: 2em;
+	}	

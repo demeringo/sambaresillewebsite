@@ -1,0 +1,71 @@
+<?php include("../basicPageHeaderBlack.html"); ?>
+<?php include("../headersAndMenu.php"); ?>
+<!-- début du contenu spécifique à la page -->
+<div id="content">
+<div class="page-title">
+	<h1>Les stages et expos au CICC</h1>
+</div>
+<br/>
+<br/>
+<h3 style="text-align:center">Avril 2008</h3>
+<h2><a href="stageCavaco.php">Stage de cavaquihno (par Fernando Cavaco - 12 et 13 avril) </a></h2>
+<h2><a href="stagePercuPagode.php">Stage de percussions brésiliennes (par Boca Rum et Rodrigo de Oliveira - 12 et 13 avril)</a> </h2>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<hr/>
+<h3 style="text-align:center">Février à Mars 2008</h3>
+<h2><a href="womanFlower.php">Nadi.H.cas "Woman Flower and les fées mères"</a></h2>
+<br/>
+<br/>
+<br/>
+<hr/>
+<h3 style="text-align:center">Novembre 2007 à Janvier 2008</h3>
+<h2><a href="lulie.php">Lulie l'exploratrice "La ville Botanique"</a></h2>
+<br/>
+<br/>
+<br/>
+<hr/>
+<h3 style="text-align:center">Novembre 2007</h3>
+<h2><a href="cimade.php">Christian Bonzom "A l'ombre des lumières" - Festival CIMADE</a></h2>
+<br/>
+<br/>
+<br/>
+<hr/>
+<h3 style="text-align:center">Octobre - Novembre 2007</h3>
+<h2><a href="mo-lo-insectes.php">MO LO "In Sectes"</a></h2>
+<br/>
+<br/>
+<br/>
+<hr/>
+<h3 style="text-align:center">Septembre 2007</h3>
+<h2><a href="stageLecture.php">Stage d'initiation à la lecture à voix haute</a></h2>
+<h2><a href="stageInitiationPercu.php">Stage d'initiation aux percussions bresiliennes</a></h2>
+<br/>
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+</div>
+<!-- fin du contenu spécifique de la page -->
+<?php include("../footer.html"); ?>
+</body>
+</html>
+
+
+
