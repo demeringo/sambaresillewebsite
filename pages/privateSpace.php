@@ -8,7 +8,7 @@
 		<h1>Espace privé !</h1>
 
 		<h2>Espace adhérent</h2>
-		<p><a href="/wiki">Accès à l'espace adhérent</a>. Il s'agit d'un espace privé auquel les adhérents peuvent contribuer et il nécessite un mot de passe. Contacter <a href="mailto:webmaster@samba-resille.org">webmaster@samba-resille.org</a> pour plus d'info</a>.
+		<p><a href="http://samba.resille.free.fr/wiki">Accès à l'espace adhérent</a>. Il s'agit d'un espace privé auquel les adhérents peuvent contribuer et il nécessite un mot de passe. Contacter <a href="mailto:webmaster@samba-resille.org">webmaster@samba-resille.org</a> pour plus d'info</a>.
 		</p>
 		
 		<h2>Gestion de l'agenda</h2>
