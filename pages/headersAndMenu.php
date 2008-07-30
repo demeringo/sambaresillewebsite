@@ -31,17 +31,11 @@
 	</ul>
 	</div>
     
-    
-    
     <div id="news">
      	<div id="expo">
-	   
 	    <h1>Come back industriel</h1>
-	    <p><a href="/publicSite/pages/stages-expos/come_back_industriel.php">par Aurelien Escuriol - du 6 au 31 mai.
-      </a></p>
-      
-      
-            <p>
+	    <p><a href="/publicSite/pages/stages-expos/come_back_industriel.php">par Aurelien Escuriol - du 6 au 31 mai.</a></p>
+		 <p>
       <a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a>
 </p>
 	    </div>
