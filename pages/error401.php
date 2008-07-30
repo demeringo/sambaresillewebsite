@@ -1,4 +1,11 @@
-<?php include("basicPageHeader.html"); ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3org/TR/xhtml/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+	<?php include("includes.html"); ?>
+</head>
+<body>
+<div id="page">
  <div id="bannerTitle">
 		<h1>Samba-Résille</h1>
 		<p>a escola de samba de Toulouse</p>

@@ -1,13 +1,14 @@
-<!--
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3org/TR/xhtml/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
-<title>Login Page</title>
-<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' />
-<script language="javascript" type="text/javascript" src="login.js"></script>
+	<?php include("includes.html"); ?>
+	<!--
+  <script language="javascript" type="text/javascript" src="login.js"></script>
+  -->
 </head>
 <body>
--->
-<?php include("basicPageHeader.html"); ?>
+<div id="page">
 <?php include("headersAndMenu.php"); ?>
 <div id="content">	
 
