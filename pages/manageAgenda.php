@@ -1,13 +1,13 @@
 <?php
 include "config/auth-config.php";
-include "templates/authcheck.php";
+include "security/authcheck.php";
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
 	"http://www.w3org/TR/xhtml/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
-	<?php include("includes.html"); ?>
+	<?php include("includes-black.html"); ?>
 </head>
 <body>
 <div id="page">
