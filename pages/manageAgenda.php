@@ -14,8 +14,10 @@ include "security/authcheck.php";
 <?php include("headersAndMenu.php"); ?>
 
 <!-- début du contenu spécifique à la page -->
-<div id="content">	
-<h1>Gestion des événements</h1>
+<div id="content" class="black-background">	
+		<div class="page-title">
+		  <h1>Gestion des événements</h1>
+    </div>
 
 
 <form method="POST" action="event.php">
@@ -23,6 +25,8 @@ include "security/authcheck.php";
 	<input type="hidden" name="eventId" />
 	<a onclick='document.forms[0].eventId.value="";document.forms[0].actionType.value="createEvent";document.forms[0].submit();'>
 	Ajoutter un nouvel evenement</a>
+	<br/>
+	<hr>
 	<?php
 	$helper=new agendaHelper($db);
 	if($events=mysql_query("select * from event order by date desc")){
@@ -48,6 +52,8 @@ include "security/authcheck.php";
 		    	Modifier cet evenement</a> ou 
 				<a onclick='if (confirm("Detruire definitivement cet evenement ?") ) { document.forms[0].eventId.value="<?php echo $eventId ?>";document.forms[0].actionType.value="deleteEvent";document.forms[0].submit();}'>
 				Detruire cet evenement</a>	
+				<br/>
+				<br/>
 			</div>
 			<?php
 		}

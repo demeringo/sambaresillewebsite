@@ -2,7 +2,7 @@
 	"http://www.w3org/TR/xhtml/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
-	<?php include("includes.html"); ?>
+	<?php include("includes-black.html"); ?>
 </head>
 <body>
 <div id="page">
@@ -21,8 +21,11 @@ function savePictureFile($originalFileName, $eventId){
 }
 
 ?>
-<div id="content">
-<h1>Edition d'un évenement</h1>	
+<div id="content" class="black-background">	
+		<div class="page-title">
+		  <h1>Evénements !</h1>
+    </div>
+
 <?php
 $helper=new agendaHelper($db);
 
@@ -140,10 +143,10 @@ if(!empty($_POST)){
 			<input type="hidden" name="actionType" value="saveEvent"/>
 			<input type="hidden" name="MAX_FILE_SIZE" value="100000"/>
 			<input type="hidden" name="eventId" value='<?php echo $eventId ?>'/>
-			<h3>Titre: <input type="text" size="70" name="title" value='<?php echo $title ?>'/></h3><br/> 
-			<h3>Date (ex: 21/11/2008) : <input type="text" name="date" value='<?php echo $date ?>'/></h3><br/>
-			<h3>Heure (ex: 20:00): <input type="text" name='time' value='<?php echo $time ?>'/></h3><br/> 
-			<h3>Texte: </h3><textarea name="text" cols="70" rows="20" ><?php echo $text ?></textarea><br/>
+			<h3>Titre: <input type="text" size="70" name="title" value='<?php echo $title ?>'/></h3> 
+			<h3>Date (ex: 21/11/2008) : <input type="text" name="date" value='<?php echo $date ?>'/></h3>
+			<h3>Heure (ex: 20:00): <input type="text" name='time' value='<?php echo $time ?>'/></h3>
+			<textarea name="text" cols="70" rows="20" ><?php echo $text ?></textarea><br/>
 			<br/>
 			<fieldset>
 					<legend>Image</legend>
