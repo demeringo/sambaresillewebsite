@@ -3,9 +3,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
 	<?php include("includes.html"); ?>
-	<!--
-  <script language="javascript" type="text/javascript" src="login.js"></script>
-  -->
+	<!-- Added to authenticate users -->
+	<script language="javascript" type="text/javascript" src="security/login.js"></script>
 </head>
 <body>
 <div id="page">
@@ -15,7 +14,7 @@
 <br/>
 <br/>
 
-<form id='log' method='post' action='templates/auth.php' onSubmit='javascript:submit_pass();'>
+<form id='log' method='post' action='security/auth.php' onSubmit='javascript:submit_pass();'>
 <input type='hidden' name='md5' />
 <table align='center'>
 <tr><td>Login</td><td><input name='login' /></td></tr>
