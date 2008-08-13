@@ -76,7 +76,7 @@
 		<div id="blog">
       	<h1>Le blog</h1>
         <p>
-        <a href="http://samba.resille.free.fr/blog/">Photos et réactions !</a>
+        <a href="http://samba-resille.org/blog/">Photos et réactions !</a>
         </p>
      </div>
 
