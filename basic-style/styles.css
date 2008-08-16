@@ -128,22 +128,22 @@ Encadré dernière minute
 	margin: 5px;	
 	}
 
-/* Encadré de news
+/* Encadré de news agenda
 ******************************************************************/
 #news{
 	position: absolute;
 	top: 400px;
 	left:20px;
 	width: 170px;
-	border: 1.5px solid #A60000;
+	border: 1.5px solid #A60000; /* Red */
 	background: #fbff7c;
 	}
 
 	#news h1{
 		margin: 0.5em;	
 	 	font-size: 100%;
-		color: #A60000;
-		}
+		color: #A60000; /* Red */
+	}
 	#news p{
 		margin: 0.5em;
 		}
@@ -152,10 +152,10 @@ Encadré dernière minute
 		text-decoration: none;
 		}
 	#news a:hover{
-		color: #A60000;
+		color: #A60000; /* Red */
 		}
 	#news hr{
-		border: 1px solid #A60000; 
+		border: 1px solid #A60000; /* Red */
 		}   
 	#news ul{
 	    padding: 0;

@@ -1,0 +1,38 @@
+
+/* Contenu principal
+******************************************************************/
+#content a{
+	text-decoration: underline;
+	/*color: blue;*/
+	}
+#content a:hover{
+	color: blue;
+	}
+	
+#content h1{
+  color: white;
+  text-align: center;
+  font-weight: normal;
+  font-size: 200%;
+  margin: 0.5em 0 1em 0;
+  }
+  
+ #content h2{
+  /*color : white;*/
+  text-align: right;
+  }
+ 
+ #content h4{
+  font-style: italic;
+  font-weight: normal;
+  margin: 2em 0 1em 0;
+  }
+
+  
+#content p{
+  text-align: justify;
+  }
+  
+
+	
+
