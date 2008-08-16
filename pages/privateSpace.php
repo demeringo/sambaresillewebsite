@@ -9,14 +9,13 @@
 <?php include("headersAndMenu.php"); ?>
 <!-- début du contenu spécifique à la page -->
 	<div id="content">	
-		<h1>Espace privé !</h1>
-
-		<h2>Espace adhérent</h2>
+		<h1>Espace adhérents</h1>
+		<h2>Le wiki</h2>
 		<br/>
-		<p>Il s'agit d'un espace privé auquel les adhérents peuvent contribuer et il nécessite un mot de passe. Contacter <a href="mailto:webmaster@samba-resille.org">webmaster@samba-resille.org</a> pour plus d'info</a>.
+		<p>Il s'agit d'un site privé auquel les adhérents peuvent contribuer et il nécessite un mot de passe. Contacter <a href="mailto:webmaster@samba-resille.org">webmaster@samba-resille.org</a> pour plus d'info</a>.
 		</p>
 		<br/>
-		<p style="text-align:center">
+		<p style="text-align:center;font-size: 150%">
 		<a href="http://samba.resille.free.fr/wiki">Accès à l'espace adhérent (Wiki)</a> 
 		</p>
 		<br/>
@@ -27,9 +26,10 @@
 		<p>Les salariés et administrateurs peuvent modifier l'agenda des évenements
 		</p>
 		<br/>
-		<p style="text-align:center">
+		<p style="text-align:center;font-size: 150%">
 		<a href="manageAgenda.php">Accès à la gestion de l'agenda</a>
 		</p>
+		</span>
 		<br/>
 		<br/>
 		<br/>
