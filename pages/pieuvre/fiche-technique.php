@@ -19,7 +19,7 @@
 <h4>Pendant la déambulation:</h4>
 <p>- En rue : largeur minimum 6 à 7 m (trottoir compris) Barrières et plots à éviter sur le parcours (sinon ne pas compter les trottoirs). Hauteur minimum 7m dégagé.
 </p>
-<img class="right" src="/PublicSite/img/pieuvre/p-plein-pied.jpg" alt="La pieuvre de plein pied"/>
+<img class="right" src="/publicSite/img/pieuvre/p-plein-pied.jpg" alt="La pieuvre de plein pied"/>
 <p>
 - Sur site :<br/>
 * Type fosse public, rien à signaler (sauf en cas de décoration aérienne, éclairage... hauteur minimum 7m dégagé), <br/>* Type parc fleuri, hauteur minimum 7m dégagé, <font style="color: red">nous devrons être autorisé à marcher sur les espaces verts</font><br/>* Type terre plein (parking ou autre), identique au format Rue.<br/></p>
