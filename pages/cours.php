@@ -96,6 +96,10 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
     <p>
     Dans tous les cas, précisez vos nom, prénom, contact téléphonique, mail ainsi que l'atelier dans lequel vous souhaitez vous inscrire!
     </p>
+    <p>
+    <br/>
+    <strong>Les ateliers enfant débutent le mardi 30 septembre et le mercredi 1er octobre.</strong>
+    </p>
 </div>
 <!-- fin du contenu spécifique de la page -->
 <?php include("footer.html"); ?>
