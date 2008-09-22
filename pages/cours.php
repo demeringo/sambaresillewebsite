@@ -48,12 +48,14 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
         <b>Cours adultes intermédiaires</b><br/>
         Lundi 21h - 23h<br/>
         <br/>
+        <b>Cours éveil musical (3 à 4 ans)</b><br/>
+        Mercredi 9h30 à 10h30<br/>
         <b>Cours éveil musical (4 à 5 ans)</b><br/>
-        Mercredi 17h - 18h<br/>
+        Mercredi 17h à 18h<br/>
         <b>Eveil Batucada (5 à 7 ans)</b><br/>
-        Mercredi 16h - 17h<br/>
+        Mercredi 16h à 17h<br/>
         <b>Batucada Enfants (8 à 11 ans)</b><br/>
-        Mardi 17h30 - 18h30<br/>
+        Mardi 17h30 à 18h30<br/>
         <br/>
         <b>Adhésion annuelle </b><font face="Arial"><b><i>(obligatoire)</i></b><br/>
          Octobre 2008 à Septembre 2009<br/>
@@ -70,6 +72,8 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
         <br/>
         <b>25 euros</b><br/>
         par mois<br/>
+        <br/>
+        <br/>
         <br/>
         <br/>
         <br/>
