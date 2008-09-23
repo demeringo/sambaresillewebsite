@@ -84,7 +84,7 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
     </tr>
     </table>
     <hr/>
-    <h2 style="text-align:center">COMMENT S'INSCRIRE?</h2>
+    <h2 style="text-align:center">COMMENT S'INSCRIRE ?</h2>
     <p>
     <b>Les inscriptions débutent à partir du 1er Juillet 2008.</b><br/>
     <br/>
@@ -96,10 +96,15 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
     <p>
     Dans tous les cas, précisez vos nom, prénom, contact téléphonique, mail ainsi que l'atelier dans lequel vous souhaitez vous inscrire!
     </p>
-    <p>
+    <hr/>
+    <h2 style="text-align:center">QUAND COMMENCENT LES COURS ?</h2>
+<p>
+    <strong>Ateliers adultes</strong>: reprise le lundi 29 et mardi 30 septembre.
     <br/>
-    <strong>Les ateliers enfant débutent le mardi 30 septembre et le mercredi 1er octobre.</strong>
-    </p>
+    <br/>
+    <strong>Ateliers enfants</strong>: reprise le mardi 30 septembre et mercredi 1er octobre.
+   
+        </p>
 </div>
 <!-- fin du contenu spécifique de la page -->
 <?php include("footer.html"); ?>
