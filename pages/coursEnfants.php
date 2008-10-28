@@ -8,7 +8,7 @@
 <div id="page">
 <?php include("headersAndMenu.php"); ?>
 
-<!-- début du contenu spécifique à la page -->
+<!--  début du contenu spécifique à la page -->
 	<div id="content">	
 		<h1>Les cours et ateliers enfant - Saison 2007/2008</h1>
 <p><strong>Nos ateliers notre pédagogie</strong></p>
