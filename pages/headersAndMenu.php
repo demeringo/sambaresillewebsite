@@ -35,8 +35,8 @@
     
     <div id="news">
      	<div id="expo">
-	    <h1>Come back industriel</h1>
-	    <p><a href="/publicSite/pages/stages-expos/come_back_industriel.php">par Aurelien Escuriol - du 6 au 31 mai.</a></p>
+	    <h1>Bix de Grégory Elbaz</h1>
+	    <p><a href="/publicSite/pages/stages-expos/Bix.php">A partir du 31 octobre - festival indélébile</a></p>
 		 <p>
       <a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a>
 </p>

@@ -14,6 +14,18 @@
 </div>
 <br/>
 <br/>
+<h3 style="text-align:center">Novembre 2008</h3>
+<h2><a href="Bix.php">"Bix" de Grégory Elbaz</a></h2>
+<p>Dans le cadre du Festival Indélébile - Festival de la petite édition & de la narration graphique</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<br/>
 <h3 style="text-align:center">Avril 2008</h3>
 <h2><a href="stageCavaco.php">Stage de cavaquihno (par Fernando Cavaco - 12 et 13 avril) </a></h2>
 <h2><a href="stagePercuPagode.php">Stage de percussions brésiliennes (par Boca Rum et Rodrigo de Oliveira - 12 et 13 avril)</a> </h2>
