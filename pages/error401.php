@@ -12,10 +12,11 @@
 	</div>
 	
 	<ul id="shortMenu">
-		<li><a href="index.php">Retour à l'accueil</a> - </li>
-		<li><a href="contacts.php">Contacts</a> - </li>
-		<li><a href="/wiki">Espace privé</a></li>
+		<li><a href="/publicSite/pages/index.php">Retour à l'accueil</a> - </li>
+		<li><a href="/publicSite/pages/contacts.php">Contacts</a> - </li>
+		<li><a href="/publicSite/pages/privateSpace.php">Espace privé</a></li>
 	</ul>
+
 
 <!-- début du contenu spécifique à la page -->
 <div id="content">
