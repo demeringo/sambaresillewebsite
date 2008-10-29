@@ -71,7 +71,7 @@ Samba résille est membre de Communic'arte.
 		
 		<h2>Les réseaux de Samba</h2>
 		<h3>Le samba en France</h3>
-		<img class="right" src="../img/links/icFrance.gif" width="75px" alt="Samba en France" />
+		<img class="right" src="../img/links/LogoSambaEnFrance.png" width="75px" alt="Samba en France" />
 		<p>
 		Le site <a href="http://sambistas.online.fr/" Target="_blank">Samba en France</a> a pour vocation de rassembler toutes les informations utiles pour pratiquer ou écouter de la samba dans notre beau pays.
 		</p> 
@@ -88,7 +88,7 @@ Samba résille est membre de Communic'arte.
 		Voici une liste des sites de groupes que nous avons rencontrés et avec qui nous avons partagé des moments privilégiés.
 		</p>		<ul>
 			<li>Ils sont venus mettre le feu <a href="http://www.sambadarua.org/2006/07/24/en-toulouse-con-la-familia/"> à Toulouse et Pamiers en juillet 2006</a>. Un ancien membre de Samba Résille, Felipe, rentré au pays, a reconstitué là-bas un groupe de motivés (Ceux qui les ont vus jouer savent que le mot est faible !) : c'est <a href="http://www.sambadarua.org/" target="_blank">Samba da Rua</a> <i>(en espagnol)</i>.</li>		   <li><a href="http://www.algonet.se/~abunda" Target="_blank">A Bunda</a> - G&ouml;teborg, Su&egrave;de <i>(en anglais)</i></li>				   <li><a href="http://www.aquarela-paris.com" Target="_blank">Aquarela</a> - Paris, France</li>		   <li><a href="http://www.atabak.org" Target="_blank">Atabak</a> - Lille, France</li>		   <li><a href="http://www.dt.renshaw.ukonline.co.uk/index.htm">Bat-2-K</a> - Southampton, Royaume-Uni <i>(en anglais)</i></li>			   <li><a href="http://www.eman.id-net.fr/html/batucada.htm" Target="_blank">Batucada del Mundo</a> - Nancy, France</li>
-		   <li><a href="http://sambistas.online.fr/en-france/index.php?title=Blocodaqui" Target="_blank">Blocodaqui</a> propose des cours et des répétitions de percussions brésiliennes ouverts aux amateurs (débutants ou expérimentés).</li>		   <li><a href="http://www.samba-nantes.fr" Target="_blank">Cora&ccedil;&atilde;o do Brasil</a> - Nantes, France</li>
+		   <li><a href="http://blocodaqui.free.fr/" Target="_blank">Blocodaqui</a> propose des cours et des répétitions de percussions brésiliennes ouverts aux amateurs (débutants ou expérimentés).</li>		   <li><a href="http://www.samba-nantes.fr" Target="_blank">Cora&ccedil;&atilde;o do Brasil</a> - Nantes, France</li>
 		   <li><a href="http://www.edinburghsambaschool.org.uk/" Target="_blank">The Edinburgh Samba School</a>
 		   </li>		   <li><a href="http://www.macunaima.org" Target="_blank">Macuna&iuml;ma</a> - Bordeaux, France</li>				   <li><a href="http://www.multimania.com/pomele" Target="_blank">Pom&eacute;l&eacute;</a> - Cherbourg, France</li>		   <li><a href="http://www.quinta-feira.de" Target="_blank">Quinta Feira</a> - Hambourg, Allemagne <i>(en anglais)</i></li>		   <li><a href="http://www.sambayabamba.com" Target="_blank">Samba Ya Bamba</a> - Glasgow, Royaume-Uni <i>(en anglais)</i></li>				   <li><a href="http://www.afone.com/saravah" Target="_blank">Saravah</a> - Tours, France</li>		   <li><a href="http://www.lefourneau.com/artistes/transe_express/index.htm" Target="_blank">Transe Express</a> - Crest, France</li>		</ul> 
 
