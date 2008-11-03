@@ -5,13 +5,14 @@ Style noir du site, a ajouter à style.css
 
 #page{
 	background: black;
-	color: white;
+	color:  #949494; /* light gray */
+
 	}
 
 /*  Petit menu avec les principaux raccourcis 
 ******************************************************************/
 #shortMenu{
-	border-bottom: 1px solid white;
+	border-bottom: 1px solid  #949494;
 	}
 
 #shortMenu a:hover{
@@ -27,6 +28,10 @@ Style noir du site, a ajouter à style.css
 
 /* Contenu principal
 ******************************************************************/
+#content{
+  line-height: 1.5em;
+  }
+
 #content .page-title{
   background: url(img/bandeauNuage.gif) center right no-repeat;
   }
