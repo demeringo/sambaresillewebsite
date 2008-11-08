@@ -25,6 +25,7 @@ En 15 ans d'existence Samba Résille a arpenté les villes et villages de France, 
 <br/>
 <img class="center"  src="/publicSite/img/pieuvre/p-en-marche.jpg" alt="pieuvre en marche"/>
 <br/>
+<p class="right"><em>Photos: Yves Cevennes</em></p>
 <br/>
 <br/>
 <br/>

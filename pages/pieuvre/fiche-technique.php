@@ -35,6 +35,10 @@
 <br/>
 <br/>
 <br/>
+<p class="right"><em>Photos: Yves Cevennes</em></p>
+
+<br/>
+
 <br/>
 <p style="text-align:center">
 <a href="intro.php">Retour à la pieuvre</a>&nbsp;&nbsp;&nbsp;&nbsp;-----&nbsp;&nbsp;&nbsp;&nbsp;<a href="presse.php">Presse</a>
