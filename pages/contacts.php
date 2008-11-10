@@ -11,12 +11,12 @@
 <!-- début du contenu spécifique à la page -->
 <div id="content">	
 		<h1>Contacts</h1>
-		<a href="http://maps.google.fr/maps?f=q&hl=fr&geocode=&q=38+rue+roquelaine+toulouse&sll=47.15984,2.988281&sspn=14.527976,27.905273&ie=UTF8&layer=c&g=38+rue+roquelaine+toulouse&ll=43.636572,1.42067&spn=0.123988,0.263672&z=12&iwloc=r2"><img class="right" style="border: none" title="plan d'acces google map" src="../img/contact/google_map_mini.png" alt="plan d'acces google map"/></a>
-		
+	
 
 		<h2>Pour toute info</h2>
 		<!--<a href="../img/contact/planAcces.jpg"><img class="right" src="../img/contact/planMiniature.jpg" alt="plan d'acces"/></a>	-->
 			<!-- Lien vers google map -->
+				<a href="http://maps.google.fr/maps?f=q&hl=fr&geocode=&q=38+rue+roquelaine+toulouse&sll=47.15984,2.988281&sspn=14.527976,27.905273&ie=UTF8&layer=c&g=38+rue+roquelaine+toulouse&ll=43.636572,1.42067&spn=0.123988,0.263672&z=12&iwloc=r2"><img class="right" style="border: none" title="plan d'acces google map" src="../img/contact/google_map_mini.png" alt="plan d'acces google map"/></a>
 					<ul>
 			<li>e-mail:  <a href="mailto:cicc@samba-resille.org" >CICC@samba-resille.org</a></li>
 			<li>tel: +33 (0) 534 416 216</li>
