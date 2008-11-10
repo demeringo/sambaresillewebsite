@@ -10,11 +10,22 @@
 <!-- début du contenu spécifique à la page -->
 	<div id="content">	
 		<h1>Espace adhérents</h1>
-		<h2>Le wiki</h2>
+		<h2>Le forum</h2>
+		<a href="	http://samba-resille.org/forum/"><img class="right" style="border:0px" src="../img/forum_mini.png"/></a>
+		<p>Des infos sur le réseau culture, des infos sociales, des spectacles et evènements, des annonces ... en accès libre.</a>.
+		</p>
+		<p style="text-align:center;font-size: 150%">
+		<a href="	http://samba-resille.org/forum/">Accès au forum</a> 
+    </p>
 		<br/>
+		<br/>
+		<hr/>
+		
+		<br/>
+		<h2>Le wiki</h2>
+		<a href="http://samba.resille.free.fr/wiki"><img class="right" style="border:0px" src="../img/wiki_mini.png"/></a>
 		<p>Il s'agit d'un site privé auquel les adhérents peuvent contribuer et il nécessite un mot de passe. Contacter <a href="mailto:webmaster@samba-resille.org">webmaster@samba-resille.org</a> pour plus d'info</a>.
 		</p>
-		<br/>
 		<p style="text-align:center;font-size: 150%">
 		<a href="http://samba.resille.free.fr/wiki">Accès à l'espace adhérent (Wiki)</a> 
 		</p>
