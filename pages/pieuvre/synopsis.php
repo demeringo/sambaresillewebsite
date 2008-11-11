@@ -45,7 +45,7 @@
 Spectacle de rue Tout Public en parade ou en statique, diurne et nocturne, par scènes de 1/2 heure chacune.
 </p>
 <br/>
-<p class="right" ><em>Photos: Yves Cevennes</em></p>
+<p class="right" ><em>Photos: Yves Cevenes</em></p>
 <br/>
 <br/>
 <p style="text-align:center">

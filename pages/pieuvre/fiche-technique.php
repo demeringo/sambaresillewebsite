@@ -35,7 +35,7 @@
 <br/>
 <br/>
 <br/>
-<p class="right"><em>Photos: Yves Cevennes</em></p>
+<p class="right"><em>Photos: Yves Cevenes</em></p>
 
 <br/>
 
