@@ -33,7 +33,8 @@ Style noir du site, a ajouter à style.css
   }
 
 #content .page-title{
-  background: url(img/bandeauNuage.gif) center right no-repeat;
+  margin-top: 30px;
+    background: url(img/bandeauNuage.gif) center right no-repeat;
   }
 
 #content a{
@@ -48,6 +49,7 @@ Style noir du site, a ajouter à style.css
 	
 #content h1{
   color: white;
+
   text-align: right;
   font-weight: normal;
   font-size: 270%;

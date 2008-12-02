@@ -121,7 +121,7 @@ Encadré dernière minute
 ******************************************************************/
 
 #expo{
-	width: 170px;
+	width: 150px;
 	background: #fbff7c;	
 	}
 #expo strong{
@@ -132,9 +132,9 @@ Encadré dernière minute
 ******************************************************************/
 #news{
 	position: absolute;
-	top: 400px;
+	top: 430px;
 	left:20px;
-	width: 170px;
+	width: 150px;
 	border: 1.5px solid #A60000; /* Red */
 	background: #fbff7c;
 	}
