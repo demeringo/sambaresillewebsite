@@ -14,6 +14,18 @@
 </div>
 <br/>
 <br/>
+
+
+<h3 style="text-align:center">Décembre 2008 à janvier 2009</h3>
+<h2><a href="istandem_en_tanboul.php">Istandem en tanboul</a></h2>
+<p>Expo et installation de Laureline Deloingce & Antonin Michaud-Soret<p>
+<p>3000 km en tandem à travers les Balkans </p>
+<br/>
+<br/>
+<br/>
+<hr/>
+<br/>
+  
 <h3 style="text-align:center">Novembre 2008</h3>
 <h2><a href="Bix.php">"Bix" de Grégory Elbaz</a></h2>
 <p>Dans le cadre du Festival Indélébile - Festival de la petite édition & de la narration graphique</p>
@@ -34,6 +46,7 @@
 <br/>
 <br/>
 <br/>
+
 <hr/>
 <h3 style="text-align:center">Février à Mars 2008</h3>
 <h2><a href="womanFlower.php">Nadi.H.cas "Woman Flower and les fées mères"</a></h2>

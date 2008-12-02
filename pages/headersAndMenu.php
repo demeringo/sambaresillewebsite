@@ -35,8 +35,8 @@
     
     <div id="news">
      	<div id="expo">
-	    <h1>Bix de Grégory Elbaz</h1>
-	    <p><a href="/publicSite/pages/stages-expos/Bix.php">A partir du 31 octobre - festival indélébile</a></p>
+	    <h1>Istandem en tanboul</h1>
+	    <p><a href="/publicSite/pages/stages-expos/istandem_en_tanboul.php">3000 km à travers les Balkans du 4 décembre au 30 janvier</a></p>
 		 <p>
       <a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a>
 </p>
