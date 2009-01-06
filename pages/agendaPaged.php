@@ -11,7 +11,10 @@
 <div id="content" class="black-background">	
 		<div class="page-title">
 		  <h1>Evénements !</h1>
+		 
     </div>
+     <p class="right"><a href="eventsFeed.php">La prog en RSS</a>&nbsp;<img width="16" src="../basic-style/img/small-rss.gif"></p>
+
 
 <!-- Navigation entre les pages d'agenda -->
 <div style="text-align:center">
@@ -28,7 +31,9 @@
     <?php }
    if ($agenda->isLastPage()){ ?>
    <p><a href="agendaOld.php">Accès aux archives</a></p>
+   
    <?php } ?>
+  
 </div>
 
 
@@ -74,6 +79,8 @@ foreach($events as $event){
    <p><a href="agendaOld.php">Accès aux archives</a></p>
    <?php } ?>
 </div>
+ <p class="right"><a href="eventsFeed.php">La prog en RSS</a>&nbsp;<img width="16" src="../basic-style/img/small-rss.gif"></p>
+
 
 
     
