@@ -39,7 +39,7 @@
 		$this->channels['link']         = 'http://www.ajaxray.com/blog';
 				
 		//Tag names to encode in CDATA
-		$this->CDATAEncoding = array('description', 'content:encoded', 'summary');
+		$this->CDATAEncoding = array('description', 'content:encoded', 'summary', 'title');
 	}
 
 	// Start # public functions ---------------------------------------------
@@ -208,7 +208,7 @@
 	*/
 	private function printHead()
 	{
-		$out  = '<?xml version="1.0" encoding="utf-8"?>' . "\n";
+		$out  = '<?xml version="1.0" encoding="iso-8859-1"?>' . "\n";
 		
 		if($this->version == RSS2)
 		{
