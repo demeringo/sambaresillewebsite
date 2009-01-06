@@ -38,7 +38,7 @@
         $newItem->setLink('http://www.samba-resille.org/publicSite/pages/agendaPaged.php#'.$row['id']);
 
         $newItem->setDate($row['date']);
-        $newItem->setDescription(htmlspecialchars  ( $row['text'] ));
+        $newItem->setDescription($row['text'] );
         
 
 
