@@ -15,7 +15,13 @@
 <br/>
 <br/>
 
-
+<h3 style="text-align:center">Du 28 janvier au 27 février 2009</h3>
+<h2><a href="la_ville_botanique.php">"La ville Botanique"</a></h2>
+<p>Expo et installation par Lullie, exploratrice</p>
+<br/>
+<br/>
+<br/>
+<hr/>
 <h3 style="text-align:center">Décembre 2008 à janvier 2009</h3>
 <h2><a href="istandem_en_tanboul.php">Istandem en tanboul</a></h2>
 <p>Expo et installation de Laureline Deloingce & Antonin Michaud-Soret<p>
