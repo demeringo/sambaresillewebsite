@@ -21,17 +21,17 @@
 			<li><strong>Métro Jeanne d'Arc.</strong></li>
 			<li>tel: +33 (0) 534 416 216</li>
 			<li>fax: +33(0) 534 416 100</li>
-			<li>e-mail:  <a href="mailto:cicc@samba-resille.org" >CICC@samba-resille.org</a></li>
+			<li>e-mail:  <a href="mailto:diffusion@samba-resille.org" >diffusion@samba-resille.org</a></li>
 		</ul>	
 		<!-- </div>-->
 
 		<h2>L'équipe</h2>
 		<p><strong>L'équipe salariée</strong></p>
 		<ul id="equipe">
-			<li>Hamza Medkouri: Directeur</li>
-			<li>Audrey Campourcy: Coordination Pratiques Artistiques et Evènements du CICC</li>
+			<li>Hamza Medkouri: Directeur (<a href="mailto:hamza@samba-resille.org" >hamza@samba-resille.org</a>)</li>
+			<li>Audrey Campourcy: Coordination Pratiques Artistiques <br/>et Evènements du CICC (<a href="mailto:diffusion@samba-resille.org" >diffusion@samba-resille.org</a>)</li>
 			<li>Gregory Valter: Coordination Education Artistique et Médiation Culturelle</li>
-			<li>Johan Andoche: Intervenant Musical</li> 
+			<li>Johan Andoche: Intervenant Musical et vie adhérente</li> 
 		</ul> 
 		<p><strong>Le Bureau de l'association</strong></p>
 		<ul>
