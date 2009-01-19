@@ -14,6 +14,8 @@ body{
 	padding: 0;
 	text-align: center; /* hack ie 5 pour centrer la page (ne connait pas marges auto)*/
 	background: black;
+	 background: url(img/haunted.gif) top right repeat;
+
 	color: black;
 	font-size: 75%;
 	/*font-family:"Bitstream Vera Sans", Verdana, Arial, Helvetica, Serif;*/
@@ -45,7 +47,7 @@ ul{
 #bannerTitle{	
 	height: 100px;
 	width:800px;
-	background: #c7000d url("img/headerBannerAEDI.png") top left no-repeat;
+	background: #c7000d url("img/headerBlue.png") top left no-repeat;
 	}
 /*La définition qui suit sert à cacher le titre qui est repris dans le bandeau*/	
 #bannerTitle h1, #bannerTitle p{
