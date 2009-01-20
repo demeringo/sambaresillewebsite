@@ -8,9 +8,9 @@
 	</div>
 	</a>
 	<ul id="shortMenu">
-		<li><a href="/publicSite/pages/index.php">Retour a l'accueil</a> - </li>
+		<!--<li><a href="/publicSite/pages/index.php">Retour a l'accueil</a> - </li>-->
 		<li><a href="/publicSite/pages/contacts.php">Contacts</a> - </li>
-		<li><a href="/publicSite/pages/privateSpace.php">Espace prive</a></li>
+		<li><a href="/publicSite/pages/privateSpace.php">Espace adhérents</a></li>
 		</li>
 	</ul>
 	
@@ -21,7 +21,7 @@
 		<li><a href="/publicSite/pages/pieuvre/intro.php" title="">La pieuvre</a></li>
 		<li><a href="/publicSite/pages/troupe.php" title="">La troupe</a></li>
 		
-		<li><a href="/publicSite/pages/formuleMadj.php" title="">La formule MADJ</a></li>
+		<!-- <li><a href="/publicSite/pages/formuleMadj.php" title="">La formule MADJ</a></li> -->
 		<li><a href="/publicSite/pages/cours.php" title="">Cours et inscriptions</a></li>
 		<!--<li><a href="/publicSite/pages/coursEnfants.php" title="">Les cours enfant</a></li>
 		<li><a href="/publicSite/pages/coursAdultes.php" title="">Les cours adultes</a></li>-->

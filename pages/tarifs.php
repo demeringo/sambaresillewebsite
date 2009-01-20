@@ -23,8 +23,9 @@
 <li><strong>Utilisation du studio :</strong> 8 Euros de l'heure pour l'hébergement de cours et stages et 4 Euros de l'heure par groupe pour l'hébergement de répétitions</li>
 
 <li><strong>Droit d'entrée pour les spectacles :</strong> 5 Euros tout public et 3 Euros pour les adhérents</li>
-
-<p>Pour toute autre demande (accueil en résidence, enregistrements), nous contacter pour un devis.</p>	
+</ul>
+<br/><br/><br/>
+<p>Pour toute autre demande (accueil en résidence, enregistrements), <a href="/publicSite/pages/contacts.php">nous contacter</a> pour un devis.</p>	
 <br/>
 <br/><br/><br/>
 <br/><br/><br/>
