@@ -12,11 +12,11 @@
 		<h1>La médiation culturelle</h1>
 		<h2>Le samba, pour Samba Résille, c'est tout autant une école du rythme et du plaisir qu'une école de la solidarité.</h2>
 				<p>Au-delà d’une simple prestation d’action socioculturelle, l’association Samba Résille positionne aujourd’hui son offre culturelle dans une dimension éducative de sensibilisation artistique, ayant pour vocation de construire les voies d’une réelle interrogation des publics qu’elle rencontre sur leur "faire ensemble", et des territoires sur leur "construire ensemble".</p>
-				<img class="right" width="240" src="../img/Mediation/PPN-Muret.gif" alt="Les Pourquoi Pas Nous"/>
+				<img class="right" width="240" src="../img/mediation/PPN-Muret.gif" alt="Les Pourquoi Pas Nous"/>
 
 						<p>Accompagner les pratiques amateurs, proposer des actions d’éducation artistique pour les plus jeunes, et réfléchir à de nouvelles modalités de médiation culturelle, sont les trois axes d’actions qui matérialisent le projet associatif de notre structure.</p>
 		<p>Samba Résille c’est d’abord un ensemble de citoyens qui s’interrogent sincèrement sur les écarts qui se creusent entre communes, quartiers, publics et générations. Parce que nous faisons l’expérience de l’activité artistique collective, nous mesurons les chemins d’épanouissement personnel que nous réalisons ensemble et nous nous interrogeons sur celles et ceux qui n’ont aujourd’hui toujours pas accès à l’expérience de la réalisation artistique collective sous sa forme la plus accessible, la Samba ou Batucada, et grâce à une méthode d’apprentissage ancestrale basée sur l’oralité et dite "de bouche-à-oreille".</p>
-		<img class="left" width="240" src="../img/Mediation/PPN-rencontre.gif" alt="photo groupe"/>
+		<img class="left" width="240" src="../img/mediation/PPN-rencontre.gif" alt="photo groupe"/>
 		<p>Nous mesurons également la fracture entre les publics, surtout à la révélation d'un handicap, motivée par la méconnaissance et la peur de l'autre, de sa différence, de sa particularité. Et parce que nous sommes tous singuliers, nous croyons pouvoir apaiser ces réticences à la rencontre et l'échange avec l'autre, en créant des espaces de convivialités et de pratique artistique commune, en favorisant la création de ce lien social qui fait tant défaut à nos communautés de vie.</p>
 		<h2>Pourquoi le Samba ?</h2>
 		<ul>
