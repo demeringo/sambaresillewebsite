@@ -15,6 +15,16 @@
 <br/>
 <br/>
 
+<h3 style="text-align:center">21 et 22 février 2009</h3>
+<h2><a href="stageClown.php">Stage initiation Clown - théatre</a></h2>
+<p>Animé par Vincent BUORO et David LUCAS</p>
+<p>Par l'association ZICOMATIC</p>
+<br/>
+<br/>
+<br/>
+<hr/>
+<br/>
+
 <h3 style="text-align:center">Du 28 janvier au 27 février 2009</h3>
 <h2><a href="la_ville_botanique.php">"La ville Botanique"</a></h2>
 <p>Expo et installation par Lullie, exploratrice</p>
