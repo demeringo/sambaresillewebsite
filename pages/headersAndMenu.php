@@ -35,10 +35,8 @@
     
     <div id="news">
      	<div id="expo">
-	    <h1>Istandem en tanboul</h1>
-	    <p><a href="/publicSite/pages/stages-expos/istandem_en_tanboul.php">3000 km à travers les Balkans du 4 décembre au 30 janvier</a></p>
-
-       <h1>La Ville Botanique</h1>
+	    
+	    <h1>La Ville Botanique</h1>
 	    <p><a href="/publicSite/pages/stages-expos/la_ville_botanique.php">par Lullie, exploratirice du 28 janvier au 27 février</a></p>
       
       <h1>Stage d'initiation Clown</h1>
