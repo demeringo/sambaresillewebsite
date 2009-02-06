@@ -78,6 +78,7 @@ L'agenda
 	border: none;
 	border-bottom: 1px solid white;
 	background: black;
+	color:  #949494; //light gray added for editor
 	margin: 10px 0 20px 0;
 	overflow: auto;
 	}
@@ -103,3 +104,23 @@ L'agenda
 		color: red;
 		text-decoration: underline;
 		}
+
+.agenda input{
+  color: white;
+  background: black;
+  font-size: 120%;
+  border: 1px dotted lightgray;
+  }
+  
+.agenda input#title{
+  color: blue;
+  font-size: 140%;
+	margin: 10px 5px 10px 5px;
+  }
+
+  
+/*#editEventText{
+  color: white;
+  background: black;
+  }*/
+  

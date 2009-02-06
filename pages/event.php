@@ -3,26 +3,38 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
 	<?php include("includes-black.html"); ?>
-	<!-- following lines to integrate tinyMCE to edit articles -->
+	
+	<!-- Calendar pop up -->
+	<script language="javascript" type="text/javascript" src="/publicSite/javascript/CalendarPopup.js"></script>
+	<script language="JavaScript" id="js4">
+    var cal = new CalendarPopup();
+    cal.setWeekStartDay(1);
+    </script>
+
+	<!-- tinyMCE to edit articles (all textareas in fact ?) -->
 	<script language="javascript" type="text/javascript" src="/publicSite/javascript/tinymce/jscripts/tiny_mce/tiny_mce.js"></script>
   <script language="javascript" type="text/javascript">
     tinyMCE.init({
     	  // General options
       	mode : "textareas",
       	theme : "advanced",
-      	plugins : "safari,style,layer,table,advhr,advimage,advlink,iespell,preview,media,searchreplace,print,contextmenu,paste,directionality,noneditable,visualchars,nonbreaking,xhtmlxtras,template",
+      	skin :"o2k7",
+      	skin_variant : "black",
+      	plugins : "safari,style,layer,table,advhr,advimage,advlink,iespell,preview,media,searchreplace,print,contextmenu,paste,directionality,noneditable,visualchars,nonbreaking,xhtmlxtras,template,fullscreen",
       
       	// Theme options
       	theme_advanced_buttons1 : "bold,italic,underline,strikethrough,|,justifyleft,justifycenter,justifyright,justifyfull,|,fontselect,fontsizeselect,|,forecolor,backcolor,|,bullist,numlist,",
-      	theme_advanced_buttons2 : "undo,redo,removeformat,code,|,blockquote,charmap,nonbreaking,|,link,unlink,image,cleanup,help,",
+      	theme_advanced_buttons2 : "undo,redo,removeformat,|,blockquote,charmap,nonbreaking,|,link,unlink,image,|,cleanup,code,|,help,fullscreen,",
       	theme_advanced_buttons3 : "",
       	theme_advanced_toolbar_location : "top",
       	theme_advanced_toolbar_align : "left",
       	theme_advanced_statusbar_location : "bottom",
       	theme_advanced_resizing : true,
       
+        // Styling
+        body_class : "agenda",
       	// Example content CSS (should be your site CSS)
-      	content_css : "css/content.css",
+      	content_css : "/publicSite/basic-style/styles-black.css",
       
       	// Drop lists for link/image/media/template dialogs
       	template_external_list_url : "lists/template_list.js",
@@ -173,22 +185,31 @@ if(!empty($_POST)){
 			<input type="hidden" name="actionType" value="saveEvent"/>
 			<input type="hidden" name="MAX_FILE_SIZE" value="100000"/>
 			<input type="hidden" name="eventId" value='<?php echo $eventId ?>'/>
-			<h3>Titre: <input type="text" size="70" name="title" value='<?php echo $title ?>'/></h3> 
-			<h3>Date (ex: 21/11/2008) : <input type="text" name="date" value='<?php echo $date ?>'/></h3>
-			<h3>Heure (ex: 20:00): <input type="text" name='time' value='<?php echo $time ?>'/></h3>
-			<textarea name="text" cols="60" rows="20" ><?php echo $text ?></textarea><br/>
+			
+			<input id="date" type="text" size="10" name="date" value='<?php echo $date ?>'/>
+			<a href="#" onclick="cal.select(document.forms[0].date,'anchor4','dd/MM/yyyy'); return false;"
+			title="cal.select(document.forms[0].date,'anchor4','dd/MM/yyyy'); return false;" 
+			name="anchor4" id="anchor4">Cal.</a>
+
+			---  
+			<input id="time" type="text" size="5" name='time' value='<?php echo $time ?>'/>
+			<p>Date (21/11/2008) --- Heure (20:00)<p>
+			
+			<input id="title" size="70" name="title" value='<?php echo $title ?>'/>
+			<textarea id="editEventText" name="text" cols="60" rows="20" ><?php echo $text ?></textarea><br/>
+			
 			<br/>
 			<fieldset>
-					<legend>Image</legend>
+			<legend>Image</legend>
 					Image : <input type="file" name="pictureFile"><br/>
 					Taille (pixels): <input type="text" name="pictureSize" value='<?php echo $pictureSize ?>'/><br/>
-			<?php
-			if($actionType=='updateEvent'){
-				?>
-				<input name="deleteImage" type="checkbox">Enlever l'image actuelle</input><br/> 
-			<?php	
-			}
-			?>
+    			<?php
+    			if($actionType=='updateEvent'){
+    				?>
+    				<input name="deleteImage" type="checkbox">Enlever l'image actuelle</input><br/> 
+    			<?php	
+    			}
+    			?>
 			</fieldset>
 			<br/>
 			<br/>
