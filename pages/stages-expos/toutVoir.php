@@ -15,6 +15,15 @@
 <br/>
 <br/>
 
+<h3 style="text-align:center">Du 1er mars au 3 avril 2009</h3>
+<h2><a href="eauxNoires_Nada.php">Eaux noires</a></h2>
+<p>Expositon d'encres de Chine Par NADA</p>
+<br/>
+<br/>
+<br/>
+<hr/>
+<br/>
+
 <h3 style="text-align:center">21 et 22 février 2009</h3>
 <h2><a href="stageClown.php">Stage initiation Clown - théatre</a></h2>
 <p>Animé par Vincent BUORO et David LUCAS</p>

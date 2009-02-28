@@ -36,11 +36,13 @@
     <div id="news">
      	<div id="expo">
 	    
-	    <h1>La Ville Botanique</h1>
-	    <p><a href="/publicSite/pages/stages-expos/la_ville_botanique.php">par Lullie, exploratirice du 28 janvier au 27 février</a></p>
+	    <h1>Eaux Noires</h1>
+	    <p><a href="/publicSite/pages/stages-expos/eauxnoires_Nada.php">Expostion d'encres de Chine, par NADA, du 1er mars au 3 avril</a></p>
       
+      <!--
       <h1>Stage d'initiation Clown</h1>
 	    <p><a href="/publicSite/pages/stages-expos/stageClown.php">par l'association Zicomatic les 21 et 22 février</a></p>
+		  -->
 		
 		 <p>
       <a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a>
