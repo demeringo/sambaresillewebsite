@@ -39,10 +39,10 @@
 	    <h1>Eaux Noires</h1>
 	    <p><a href="/publicSite/pages/stages-expos/eauxNoires_Nada.php">Expostion d'encres de Chine, par NADA, du 1er mars au 3 avril</a></p>
       
-      <!--
-      <h1>Stage d'initiation Clown</h1>
-	    <p><a href="/publicSite/pages/stages-expos/stageClown.php">par l'association Zicomatic les 21 et 22 février</a></p>
-		  -->
+      
+      <h1>Ils reviennent ! Stage d'initiation Clown</h1>
+	    <p><a href="/publicSite/pages/stages-expos/stageClown_Mars09.php">par l'association Zicomatic les 21 et 22 mars</a></p>
+		  
 		
 		 <p>
       <a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a>

@@ -21,8 +21,18 @@
 <br/>
 <br/>
 <br/>
+<h3 style="text-align:center">21 et 22 mars 2009... Ils reviennent !</h3>
+<h2><a href="stageClown.php">Stage initiation Clown - théatre</a></h2>
+<p>Animé par Vincent BUORO et David LUCAS</p>
+<p>Par l'association ZICOMATIC</p>
+<br/>
+<br/>
+<br/>
+
+
 <hr/>
 <br/>
+
 
 <h3 style="text-align:center">21 et 22 février 2009</h3>
 <h2><a href="stageClown.php">Stage initiation Clown - théatre</a></h2>
