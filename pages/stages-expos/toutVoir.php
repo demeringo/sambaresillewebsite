@@ -15,6 +15,17 @@
 <br/>
 <br/>
 
+<h3 style="text-align:center">18 et 19 avril 2009... Ils reviennent !</h3>
+<h2><a href="stageClown_Avril09.php">Stage initiation Clown - théatre</a></h2>
+<p>Animé par Vincent BUORO et David LUCAS</p>
+<p>Par l'association ZICOMATIC</p>
+<br/>
+<br/>
+<br/>
+
+<hr/>
+<br/>
+
 <h3 style="text-align:center">Du 1er mars au 3 avril 2009</h3>
 <h2><a href="eauxNoires_Nada.php">Eaux noires</a></h2>
 <p>Expositon d'encres de Chine Par NADA</p>
@@ -22,7 +33,7 @@
 <br/>
 <br/>
 <h3 style="text-align:center">21 et 22 mars 2009... Ils reviennent !</h3>
-<h2><a href="stageClown.php">Stage initiation Clown - théatre</a></h2>
+<h2><a href="stageClown_Mars09.php">Stage initiation Clown - théatre</a></h2>
 <p>Animé par Vincent BUORO et David LUCAS</p>
 <p>Par l'association ZICOMATIC</p>
 <br/>

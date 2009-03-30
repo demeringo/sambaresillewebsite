@@ -41,7 +41,7 @@
       
       
       <h1>Ils reviennent ! Stage d'initiation Clown</h1>
-	    <p><a href="/publicSite/pages/stages-expos/stageClown_Mars09.php">par l'association Zicomatic les 21 et 22 mars</a></p>
+	    <p><a href="/publicSite/pages/stages-expos/stageClown_Avril09.php">par l'association Zicomatic les 18 et 19 avril</a></p>
 		  
 		
 		 <p>
