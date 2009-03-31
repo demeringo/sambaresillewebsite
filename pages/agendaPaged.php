@@ -15,7 +15,7 @@
     </div>
      <p class="right"><a href="eventsFeed.php">La prog en RSS</a>&nbsp;<img width="16" src="../basic-style/img/small-rss.gif">
      <br/>
-     <a href="mailingList.php">Recevoir la prog par mail</a>&nbsp;<img width="16" src="">
+     <a href="mailingList.php" style='font-size:130%; color:red'>Recevoir la prog par mail</a>&nbsp;<img width="16" src="">
      </p>
 
        <p class="right"></p>
@@ -87,7 +87,7 @@ foreach($events as $event){
 </div>
  <p class="right"><a href="eventsFeed.php">La prog en RSS</a>&nbsp;<img width="16" src="../basic-style/img/small-rss.gif">
  <br/>
-     <a href="mailingList.php">Recevoir la prog par mail</a>&nbsp;<img width="16" src="">
+      <a href="mailingList.php" style='font-size:130%; color:red'>Recevoir la prog par mail</a>&nbsp;<img width="16" src="">
  </p>
 
 
