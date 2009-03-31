@@ -13,7 +13,13 @@
 		  <h1>Evénements !</h1>
 		 
     </div>
-     <p class="right"><a href="eventsFeed.php">La prog en RSS</a>&nbsp;<img width="16" src="../basic-style/img/small-rss.gif"></p>
+     <p class="right"><a href="eventsFeed.php">La prog en RSS</a>&nbsp;<img width="16" src="../basic-style/img/small-rss.gif">
+     <br/>
+     <a href="mailingList.php">Recevoir la prog par mail</a>&nbsp;<img width="16" src="">
+     </p>
+
+       <p class="right"></p>
+
 
 
 <!-- Navigation entre les pages d'agenda -->
@@ -79,7 +85,10 @@ foreach($events as $event){
    <p><a href="agendaOld.php">Accès aux archives</a></p>
    <?php } ?>
 </div>
- <p class="right"><a href="eventsFeed.php">La prog en RSS</a>&nbsp;<img width="16" src="../basic-style/img/small-rss.gif"></p>
+ <p class="right"><a href="eventsFeed.php">La prog en RSS</a>&nbsp;<img width="16" src="../basic-style/img/small-rss.gif">
+ <br/>
+     <a href="mailingList.php">Recevoir la prog par mail</a>&nbsp;<img width="16" src="">
+ </p>
 
 
 
