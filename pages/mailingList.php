@@ -19,6 +19,7 @@
  ____________________________________________________________
 |                                                            |
 |    DESIGN : Jeremie Tisseau { http://web-kreation.com }    |
+|             adapted by odm                                 |
 |      DATE : 2007.08.31                                     |
 |     EMAIL : webmaster@web-kreation.com                     |
 |  DOWNLOAD : http://web-kreation.com/index.php/freebies/    |
@@ -33,59 +34,46 @@
             <!-- The contact form starts from here-->
             <?php
                  $error    = ''; // error message
+                 $to      = "newsletter-samba-resille-subscribe@yahoogroupes.fr"; // email recipient
+                 $bcc     ='webmaster@samba-resille.org;olivierdm@yahoo.fr';// BCC recipients (leave it empty, multiples addresses separated by ; )
                  $name     = ''; // sender's name
-                 $email    = 'votre_email@aaa.a'; // sender's email address
-                 $subject  = ''; // subject
+                 $email    = 'email'; // sender's email address
+                 $subject  = 'Inscription a la newsletter';
                  $message  = ''; // the message itself
-               	 $spamcheck = ''; // Spam check
 
             if(isset($_POST['send']))
             {
                  $name     = $_POST['name'];
-                 $email    = $_POST['email'];
-                 //$subject  = $_POST['subject'];
-                 //$message  = $_POST['message'];
-               	 $spamcheck = $_POST['spamcheck'];
+                 $email    = trim($_POST['email']);
 
-                /*if(trim($name) == '')
-                {
-                    $error = '<div class="errormsg">Please enter your name!</div>';
-                }
-            	  else */
             	  if(trim($email) == '')
                 {
                     $error = '<div class="errormsg">Entrez un email.</div>';
                 }
                 else if(!isEmail($email))
                 {
-                    $error = '<div class="errormsg">Entrez un email valide.</div>';
+                    $error = '<div class="errormsg">Vérifiez l\'email</div>';
                 }
-                if($error == '')
-                {
-                   /* if(get_magic_quotes_gpc())
-                    {
-                        $message = stripslashes($message);
-                    }
-                    */
-                    // the email will be sent here
-                    // make sure to change this to be your e-mail
-                    $to      = "newsletter-samba-resille-subscribe@yahoogroupes.fr";
-
-                    
-                    //$subject = '[Contact Form] : ' . $subject;
-                    $subject = 'Inscription a la newsletter';
-
-                    // the mail message ( add any additional information if you want )
+                if($error == ''){  
+                   
                     //$msg     = "From : $name \r\ne-Mail : $email \r\nSubject : $subject \r\n\n" . "Message : \r\n$message";
                     $msg     = "From : $name \r\ne-Mail : $email \r\nSubject : $subject \r\n\n" . "Inscription depuis le site de Samba Resille.";
-
-                    mail($to, $subject, $msg, "From: $email\r\nReply-To: $email\r\nReturn-Path: $email\r\n");
+                    
+                    $additionalsheaders= "From: $email\r\nReply-To: $email\r\nReturn-Path: $email\r\n";
+                    if (trim($bcc) != ''){
+                      $additionalsheaders.="Bcc: $bcc\r\n";
+                    }
+                    
+                    //mail($to, $subject, $msg, $headers);
             ?>
-
                   <!-- Message sent! (change the text below as you wish)-->
                   <div style="text-align:center;">
-                    <h1 style="color: green">Inscription enregistrée.</h1>
-                       <p>Vos allez bientot recevoir la newsletter par email.</p>
+                    <h1>Merci !</h1>
+                    <br/>
+                    <br/>
+                       <h3>Vos allez recevoir un mail de confirmation.</h3>
+                       <br/>
+                       <br/>
                        <br/>
                        <p><a href="http://samba-resille.org/">Retour au site</a></p>
                   </div>
@@ -100,10 +88,10 @@
             {
             ?>
             <div style="text-align:center;">
-            <h1>S'abonner à la newsletter</h1>
+            <h1>S'inscrire à la newsletter</h1>
             <br/>
-            <p>Pour recevoir régulièrement la programmation.</p>
             <br/>
+            
             <!--Error Message-->
             <div style="color: red">
             <?=$error;?>
@@ -111,19 +99,7 @@
             <br/>
 
             <form  method="post" name="contFrm" id="contFrm" action="">
-
-
-                  <!--<label><span class="required">*</span> Nom:</label>
-            			<input name="name" type="text" class="box" id="name" size="30" value="<?=$name;?>" />
--->
-            			<label><!--<span class="required">*</span>--> Email: </label>
-            			<input name="email" type="text" class="box" id="email" style='font-size:130%' size="30" value="<?=$email;?>" />
-
-            		<!--	<label><span class="required">*</span> Spam Check: <b>2 + 3=</b></label>
-						<input name="spamcheck" type="text" class="box" id="spamcheck" size="4" value="<?=$spamcheck;?>" /><br /><br />
--->
-            			<!-- Submit Button-->
-                 		<input name="send" type="submit" class="button" id="send" value="Inscription" />
+            		  <input name="email" type="text" class="box" id="email" style='font-size:150%' size="25" value="<?=$email;?>" />             		                   	<input name="send" type="submit" class="button" id="send" value="Inscription" /> Pour recevoir régulièrement la programmation.
 
             </form>
 
@@ -140,8 +116,8 @@
             <!-- END CONTACT FORM -->
 
             <p>&nbsp;</p>
-            <p>Votre email n'est utilisé que dans le cadre de cette newsletter, il ne sera pas diffusé à de tierces parties.</p><br/>
-            <p>Vous pouvez vous désabonner en envoyant un email à <a href="mailto:newsletter-samba-resille-desabonnement@yahoogroupes.fr">newsletter-samba-resille-desabonnement@yahoogroupes.fr</a> <br/>ou en utilisant le lien dans les emails recus.</p>
+            <p >Votre email n'est utilisé que pour envoyer cette newsletter, il n'est pas diffusé.<br/>
+            Vous pouvez vous désabonner via <a href="mailto:newsletter-samba-resille-desabonnement@yahoogroupes.fr">newsletter-samba-resille-desabonnement@yahoogroupes.fr</a> <br/>ou en utilisant le lien dans les emails recus.</p>
             <br/>
             </div>
            <!-- <br/>
