@@ -1,4 +1,0 @@
-Pour rendre le black out actif, il suffit de copier les deux lignes suivante dans n'importe quelle page HTML :
-
-<script type="text/javascript" src="http://tangui.eu.org/blackout/jquery.js"></script>
-<script type="text/javascript" src="http://tangui.eu.org/blackout/blackout.js"></script>
