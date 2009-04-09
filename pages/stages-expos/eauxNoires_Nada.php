@@ -17,10 +17,15 @@
 <h1 style="text-align:center">Eaux Noires - par NADA</h1>
 
 
-<h2 style="text-align:center">1er mars au 3 avril 2009</h2>
+<h2 style="text-align:center">1er mars au 24 avril 2009</h2>
+<p>
+Na/Da, est l'une des plasticiennes du collectif Mix Art Myrys installé rue Ferdinand Lassalle à Toulouse.
+</p>
+<p>
+Son exposition initialement prévue jusqu'au 3 avril est prolongée de 3 semaines !!</p>
 
-
-
+<br/>
+<br/>
 
 <img class="center" width="500" src="../../img/expo/eauxNoires.jpg" alt="Affiche de l'expo"/><br/>
 

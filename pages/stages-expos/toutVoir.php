@@ -26,7 +26,7 @@
 <hr/>
 <br/>
 
-<h3 style="text-align:center">Du 1er mars au 3 avril 2009</h3>
+<h3 style="text-align:center">Du 1er mars au 24 avril 2009</h3>
 <h2><a href="eauxNoires_Nada.php">Eaux noires</a></h2>
 <p>Expositon d'encres de Chine Par NADA</p>
 <br/>

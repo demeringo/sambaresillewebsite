@@ -37,7 +37,7 @@
      	<div id="expo">
 	    
 	    <h1>Eaux Noires</h1>
-	    <p><a href="/publicSite/pages/stages-expos/eauxNoires_Nada.php">Expostion d'encres de Chine, par NADA, du 1er mars au 3 avril</a></p>
+	    <p><a href="/publicSite/pages/stages-expos/eauxNoires_Nada.php">Expostion d'encres de Chine, par NADA, prolongée au 24 avril</a></p>
       
       
       <h1>Ils reviennent ! Stage d'initiation Clown</h1>
