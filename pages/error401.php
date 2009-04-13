@@ -22,8 +22,8 @@
 <div id="content">
 <h2>Accès non authorisé ! (Erreur 401)</h2>
 <p>
-Le login ou mot de passe que vous avez saisi n'est pa reconnu.<br/>
-Contactez <a href="mailto:webmaster@samba-resile.org">webmaster@samba-resile.org</a> pour obtenir un accès.
+Le login ou mot de passe que vous avez saisi n'est pas reconnu.<br/>
+Contactez <a href="mailto:webmaster@samba-resile.org">webmaster@samba-resile.org</a>.
 </p>
 <h1> <a href="http://www.samba-resille.org">Retour à l'accueil</a> </h1>
 </div>
