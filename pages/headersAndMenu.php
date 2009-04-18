@@ -38,7 +38,9 @@
 	    
 	    <h1>Eaux Noires</h1>
 	    <p><a href="/publicSite/pages/stages-expos/eauxNoires_Nada.php">Expostion d'encres de Chine, par NADA, prolongée au 24 avril</a></p>
-      
+      <h1>Projet Guyane</h1>
+	    <p><a href="/publicSite/pages/stages-expos/projetGuyane.php">Expostion photosonore sur la culture guyanaise, par l'association Chercheurs d'autres, du 30 Avril au 30 Mai</a></p>
+
       
       <h1>Ils reviennent ! Stage d'initiation Clown</h1>
 	    <p><a href="/publicSite/pages/stages-expos/stageClown_Avril09.php">par l'association Zicomatic les 18 et 19 avril</a></p>
