@@ -18,7 +18,7 @@
 <br/>
 
 <h3 style="text-align:center">16 et 17 mai 2009... Ils reviennent !</h3>
-<h2><a href="stageClown_mai09.php">Stage initiation Clown - théatre</a></h2>
+<h2><a href="stageClown_Mai09.php">Stage initiation Clown - théatre</a></h2>
 <p>Animé par Vincent BUORO et David LUCAS</p>
 <p>Par l'association ZICOMATIC</p>
 <br/>
