@@ -41,7 +41,7 @@
 		</ul>
 		<p><strong>Le conseil d'admnistration</strong></p>
 		<p>Outre les membres du bureau, le conseil d'administration est constitué de:<br/>
-		Linda Boutera, Sylvaine Duclos, Amina, Alexandre Nouvel et  Arnaud Thomas.<br/>
+		Linda Boutera, Sylvaine Duclos, Alexandre Nouvel, Amina Tazi et  Arnaud Thomas.<br/>
 		<br/>
 		Vous pouvez joindre l'équipe du CA à  <a href="mailto:ca@samba-resille.org">ca@samba-resille.org</a>
 		</p>
