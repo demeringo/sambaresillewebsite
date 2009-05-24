@@ -49,7 +49,6 @@
 <body>
 <div id="page">
 <?php include("headersAndMenu.php"); ?>
-<?php include("updateRss.php"); ?>
 
 <!-- Fin de la partie générique-->
 
@@ -77,7 +76,6 @@ if(!empty($_POST)){
 	if($actionType=='deleteEvent' ){
 		$request="delete from event where id=\"$eventId\" ";
 		mysql_query($request);
-		updateRssFile(); 
 		?>	
 		<p>Evenement détruit.</p>
 		<p>Retour à la page de <a href="manageAgenda.php" >gestion de l'agenda</a>.</p>
@@ -155,7 +153,6 @@ if(!empty($_POST)){
 						$text=$event->text;	
 					}
 				}
-				updateRssFile(); 
 				?>
 				<p>La modification est sauvée.</p>
 				<p>Retour à la page de <a href="manageAgenda.php" >gestion de l'agenda</a>.</p>
