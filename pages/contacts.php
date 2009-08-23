@@ -30,21 +30,22 @@
 		<ul id="equipe">
 			<li>Hamza Medkouri: Directeur (<a href="mailto:hamza@samba-resille.org" >hamza@samba-resille.org</a>)</li>
 			<li>Audrey Campourcy: Coordination Pratiques Artistiques <br/>et Evènements du CICC (<a href="mailto:diffusion@samba-resille.org" >diffusion@samba-resille.org</a>)</li>
-			<li>Gregory Valter: Coordination Education Artistique et Médiation Culturelle</li>
-			<li>Johan Andoche: Intervenant Musical et vie adhérente</li> 
+			<li>Gregory Valter: Coordination Education Artistique et Médiation Culturelle (<a href="mailto:greg@samba-resille.org" >greg@samba-resille.org</a>)</li>
+			<li>Johann Andoche: Intervenant Musical et vie adhérente (<a href="mailto:johann@samba-resille.org" >johann@samba-resille.org</a>)</li> 
 		</ul> 
 		<p><strong>Le Bureau de l'association</strong></p>
 		<ul>
 			<li>Président et vice président: David Crochet  / Olivier de Méringo</li>
-			<li>Trésorière: Sandie Guilloteau</li>
-			<li>Secrétaire et adjointe: Géraud Arnal / Florence Bloch </li>
+			<li>Trésorière et adjoint: Florence Bloch / Benoit Cornille</li>
+			<li>Secrétaire et adjointe: Simon Tinchant / Carole Bidou </li>
 		</ul>
 		<p><strong>Le conseil d'admnistration</strong></p>
-		<p>Outre les membres du bureau, le conseil d'administration est constitué de:<br/>Virginie Grayo, Anne Radigalès,
-		Alexandre Nouvel, Anne sophie Lacamp, Marie Cabane, Benoit Cornille, Didier Darre, Marie Emilie Rouffet.<br/>
-		Vous pouvez joindre l'équipe du CA à  <a href="mailto:ca-samba-resille@yahoogroupes.fr">ca-samba-resille@yahoogroupes.fr</a>
+		<p>Outre les membres du bureau, le conseil d'administration est constitué de:<br/>
+		Linda Boutera, Sylvaine Duclos, Alexandre Nouvel, Amina Tazi et  Arnaud Thomas.<br/>
+		<br/>
+		Vous pouvez joindre l'équipe du CA à  <a href="mailto:ca@samba-resille.org">ca@samba-resille.org</a>
 		</p>
-		 		<h2>Infos légales</h2>
+		<h2>Infos légales</h2>
 	  <p>Association loi 1901</p>
 	  <ul>
         <li>Agréée Jeunesse et Education Populaire n° 31-580</li>

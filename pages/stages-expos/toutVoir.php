@@ -14,6 +14,29 @@
 </div>
 <br/>
 <br/>
+<hr/>
+<br/>
+
+<h3 style="text-align:center">16 et 17 mai 2009... Ils reviennent !</h3>
+<h2><a href="stageClown_Mai09.php">Stage initiation Clown - théatre</a></h2>
+<p>Animé par Vincent BUORO et David LUCAS</p>
+<p>Par l'association ZICOMATIC</p>
+<br/>
+<br/>
+<br/>
+
+<hr/>
+<br/>
+
+<h3 style="text-align:center">Du 30 avril au 30 mai 2009</h3>
+<h2><a href="projetGuyane.php">Projet Guyane</a></h2>
+<p>Exposition photosonore sur la culture guyanaise par l'association Chercheurs d'autres</p>
+<br/>
+<br/>
+<br/>
+
+<hr/>
+<br/>
 
 <h3 style="text-align:center">18 et 19 avril 2009... Ils reviennent !</h3>
 <h2><a href="stageClown_Avril09.php">Stage initiation Clown - théatre</a></h2>
