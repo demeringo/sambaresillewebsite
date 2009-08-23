@@ -1,12 +1,12 @@
 
 /* Feuille de style du site de Samba Resille
-*  Olivier de Méringo  (http://samba-resille.org)
+*  Olivier de MÃ©ringo  (http://samba-resille.org)
 ******************************************************************/
 
-/*  Définitions communes à toute la page
+/*  DÃ©finitions communes Ã  toute la page
 ******************************************************************/
 
-* {margin:0; padding:0} /* fixer toutes les marges à 0 sur tous les éléments de type bloc */
+* {margin:0; padding:0} /* fixer toutes les marges Ã  0 sur tous les Ã©lÃ©ments de type bloc */
 
 
 body{
@@ -45,11 +45,12 @@ ul{
 ******************************************************************/
 
 #bannerTitle{	
-	height: 100px;
+	height: 87px;
 	width:800px;
-	background: #c7000d url("img/headerBlue.png") top left no-repeat;
+	background: #c7000d url("img/header.jpg") top left no-repeat;
+
 	}
-/*La définition qui suit sert à cacher le titre qui est repris dans le bandeau*/	
+/*La dÃ©finition qui suit sert Ã  cacher le titre qui est repris dans le bandeau*/
 #bannerTitle h1, #bannerTitle p{
 	text-indent: -5000px;
 	line-height: 0px;
@@ -91,7 +92,7 @@ ul{
 ******************************************************************/
 #mainMenu{
 	position: absolute;
-	top: 130px;
+	top: 110px;
 	left: 20px;	
 	width: 180px;
 
@@ -119,7 +120,7 @@ ul{
 	color: black;
 	}
 /*
-Encadré dernière minute
+EncadrÃ© derniÃ¨re minute
 ******************************************************************/
 
 #expo{
@@ -130,7 +131,7 @@ Encadré dernière minute
 	margin: 5px;	
 	}
 
-/* Encadré de news agenda
+/* EncadrÃ© de news agenda
 ******************************************************************/
 #news{
 	position: absolute;
@@ -204,7 +205,8 @@ Encadré dernière minute
 h2{
 	margin: 2em 0 1em 0;
 	font-weight: bold;
-	color: #000099;
+	color: #000099; /* Blue (ori) */
+	/*color: #1046D1; blue (banner) */
 	font-size: 110%;
 	padding-bottom: 0.2em;
 	}
@@ -301,7 +303,7 @@ L'agenda
 	}
 	
 	
-/* Bas de page / mentions légales
+/* Bas de page / mentions lÃ©gales
 ******************************************************************/
 #legal {
 	margin: 200px 0 0 0;
