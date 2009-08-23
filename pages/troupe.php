@@ -21,6 +21,9 @@ Sur des rythmes <strong>principalement issus de la tradition populaire du Brésil
 En somme, presque un tour du monde rythmique, notre premier patrimmoine commun.
 </p>
 <br/>
+<p>
+Plus de renseignements, demande de devis: <a href="mailto:diffusion@samba-resille.org">diffusion@samba-resille.org</a>
+</p>
 <br/>
 <img class="right" width="160" src="../img/troupe/Troupe_CARNAVAL_thumb.jpg" alt="carnaval"/>
 <img class="right" width="190" src="../img/troupe/Troupe_MARATHON_thumb.jpg" alt="marathon de toulouse"/>
