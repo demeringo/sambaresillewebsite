@@ -11,7 +11,7 @@
 <!-- début du contenu spécifique à la page -->
 <div id="content">	
 <h1 style="text-align:center">Inscriptions - Samba Résille<br/>
-SAISON 2008-2009</h1>
+SAISON 2009-2010</h1>
 <img class="center" alt="" src="../img/cours/cours.jpeg" height="267" width="425">
 
 <p>
@@ -48,8 +48,6 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
         <b>Cours adultes intermédiaires</b><br/>
         Lundi 21h - 23h<br/>
         <br/>
-        <b>Cours éveil musical (3 à 4 ans)</b><br/>
-        Mercredi 9h30 à 10h30<br/>
         <b>Cours éveil musical (4 à 5 ans)</b><br/>
         Mercredi 17h à 18h<br/>
         <b>Eveil Batucada (5 à 7 ans)</b><br/>
@@ -86,7 +84,7 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
     <hr/>
     <h2 style="text-align:center">COMMENT S'INSCRIRE ?</h2>
     <p>
-    <b>Les inscriptions débutent à partir du 1er Juillet 2008.</b><br/>
+    <b>Les inscriptions débutent à partir du 1er Juillet 2009.</b><br/>
     <br/>
     Vous pouvez :<br/>
     venir directement au local de l'association, 38 rue Roquelaine Tlse,<br/>
@@ -99,10 +97,10 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
     <hr/>
     <h2 style="text-align:center">QUAND COMMENCENT LES COURS ?</h2>
 <p>
-    <strong>Ateliers adultes</strong>: reprise le lundi 29 et mardi 30 septembre.
+    <strong>Ateliers adultes</strong>: reprise le lundi 28 et mardi 29 septembre.
     <br/>
     <br/>
-    <strong>Ateliers enfants</strong>: reprise le mardi 30 septembre et mercredi 1er octobre.
+    <strong>Ateliers enfants</strong>: reprise le mardi 29 et le mercredi 30 septembre.
    
         </p>
 </div>
