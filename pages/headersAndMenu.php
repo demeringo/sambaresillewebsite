@@ -34,22 +34,21 @@
 	</div>
     
     <div id="news">
+    <!--
      	<div id="expo">
 	    
       <h1>Projet Guyane</h1>
 	    <p><a href="/publicSite/pages/stages-expos/projetGuyane.php">Expostion photosonore sur la culture guyanaise, par l'association Chercheurs d'autres, du 30 Avril au 30 Mai</a></p>
 
       
-      <!--<h1>Ils reviennent ! Stage d'initiation Clown</h1>
+      <h1>Ils reviennent ! Stage d'initiation Clown</h1>
 	    <p><a href="/publicSite/pages/stages-expos/stageClown_Mai09.php">par l'association Zicomatic les 16 et 17 mai</a></p>
-		  -->
-		
-		 <p>
+	    <p>
       <a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a>
     </p>
-
 	    </div>
 	    <hr/>
+	        -->
 	    <!--
 	    <div>
 	    <h1>Le concert (était presque) parfait</h1>
@@ -77,7 +76,7 @@
   	    	?>
   	      </ul>
 			<p>
-			<a href="/publicSite/pages/agendaPaged.php">Tous les evenements</a>
+			<a href="/publicSite/pages/agendaPaged.php">Tous les évènements</a>
 			<!--<br/>
 			<a href="http://www.samba-resille.org/publicSite/pages/agenda.xml">Flux RSS</a>-->
 			</p>
