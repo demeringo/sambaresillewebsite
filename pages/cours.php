@@ -97,10 +97,10 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
     <hr/>
     <h2 style="text-align:center">QUAND COMMENCENT LES COURS ?</h2>
 <p>
-    <strong>Ateliers adultes</strong>: reprise le lundi 28 et mardi 29 septembre.
+    <strong>Ateliers adultes</strong>: reprise le lundi 5 et mardi 6 octobre.
     <br/>
     <br/>
-    <strong>Ateliers enfants</strong>: reprise le mardi 29 et le mercredi 30 septembre.
+    <strong>Ateliers enfants</strong>: reprise le mardi 6 et le mercredi 7 octobre.
    
         </p>
 </div>
