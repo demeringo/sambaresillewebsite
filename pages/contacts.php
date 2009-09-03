@@ -13,7 +13,7 @@
 		<h1>Contacts</h1>
 	
 <!-- Lien vers google map -->
-				<a href="http://maps.google.fr/maps?f=q&hl=fr&geocode=&q=38+rue+roquelaine+toulouse&sll=47.15984,2.988281&sspn=14.527976,27.905273&ie=UTF8&layer=c&g=38+rue+roquelaine+toulouse&ll=43.636572,1.42067&spn=0.123988,0.263672&z=12&iwloc=r2"><img class="right" style="border: 1px solid red" title="plan d'acces google map" src="../img/contact/google_map_mini.png" alt="plan d'acces google map"/></a>
+				<a href="http://maps.google.fr/maps?f=q&source=s_q&hl=fr&geocode=&q=38+rue+roquelaine+toulouse+samba+resille&sll=43.613149,1.446826&sspn=0.008187,0.01929&ie=UTF8&ll=43.612947,1.446826&spn=0.007799,0.01929&z=16&iwloc=A"><img class="right" style="border: 1px solid red" title="plan d'acces google map" src="../img/contact/google_map_mini.png" alt="plan d'acces google map"/></a>
 		<h2>Pour toute info</h2>
 		<!--<a href="../img/contact/planAcces.jpg"><img class="right" src="../img/contact/planMiniature.jpg" alt="plan d'acces"/></a>	-->
 								<ul>
