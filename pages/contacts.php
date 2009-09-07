@@ -32,7 +32,7 @@
 			<li>Audrey Campourcy: Coordination Pratiques Artistiques <br/>et Evènements du CICC (<a href="mailto:diffusion@samba-resille.org" >diffusion@samba-resille.org</a>)</li>
 			<li>Sandie Guilloteau: Vie associative et médiation culturelle (<a href="mailto:vieasso@samba-resille.org" >vieasso@samba-resille.org</a>)</li>
 			<li>Gregory Valter: Coordination Education Artistique et Médiation Culturelle (<a href="mailto:greg@samba-resille.org" >greg@samba-resille.org</a>)</li>
-			<li>Johann Andoche: Intervenant Musical et vie adhérente (<a href="mailto:johann@samba-resille.org" >johann@samba-resille.org</a>)</li> 
+			<li>Johann Andoche: Responsable de la formation musicale secteur adulte (<a href="mailto:johann@samba-resille.org" >johann@samba-resille.org</a>)</li>
 		</ul> 
 		<p><strong>Le Bureau de l'association</strong></p>
 		<ul>
