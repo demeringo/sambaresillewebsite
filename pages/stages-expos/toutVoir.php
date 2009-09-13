@@ -17,6 +17,22 @@
 <hr/>
 <br/>
 
+
+<h3 style="text-align:center">du 17 septembre au 24 octobre 2009</h3>
+<h2><a href="kicycol.php">Kicycol - Exposition</a></h2>
+<img class="right" width="120" src="../../img/expo/kicycol_logo.gif" alt="logo expo Kicycol"/>
+<p>
+Kicycol aurait pu être un simple nom emprunté par un particulier pour se donner un style, mais en fait non ... Il se veut que kicycol a vu le jour en tant qu' Association en 2002, en région PACA autour de 5 personnes passionnées par les Arts Graphiques.
+</p>
+
+
+<br/>
+<br/>
+<br/>
+
+<hr/>
+<br/>
+
 <h3 style="text-align:center">10 et 11 octobre 2009</h3>
 <h2><a href="stageClown_Octobre09.php">Stage initiation Clown - théatre</a></h2>
 <p>Animé par Vincent BUORO et David LUCAS</p>

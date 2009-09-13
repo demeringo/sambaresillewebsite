@@ -35,10 +35,8 @@
     
     <div id="news">
 		<div id="expo">
-	    <!--
-      <h1>Projet Guyane</h1>
-	    <p><a href="/publicSite/pages/stages-expos/projetGuyane.php">Expostion photosonore sur la culture guyanaise, par l'association Chercheurs d'autres, du 30 Avril au 30 Mai</a></p>
-      -->
+      <h1>Kicycol - Expo</h1>
+	    <p><a href="/publicSite/pages/stages-expos/kicycol.php">Arts graphiques, du 17 septembre au 24 octobre</a></p>
       <h1>Stage d'initiation Clown</h1>
 	    <p><a href="/publicSite/pages/stages-expos/stageClown_Octobre09.php">par l'association Zicomatic les 10 et 11 octobre</a></p>
 	    <p>
