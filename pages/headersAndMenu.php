@@ -22,7 +22,8 @@
 		<li><a href="/publicSite/pages/troupe.php" title="">La troupe</a></li>
 		
 		<!-- <li><a href="/publicSite/pages/formuleMadj.php" title="">La formule MADJ</a></li> -->
-		<li><a href="/publicSite/pages/cours.php" title="">Cours et inscriptions</a></li>
+		<li><a href="/publicSite/pages/cours.php" title="">Cours de batucada</a></li>
+		<li><a href="/publicSite/pages/chorale_enfants.php" title="">Chorale enfants</a></li>
 		<!--<li><a href="/publicSite/pages/coursEnfants.php" title="">Les cours enfant</a></li>
 		<li><a href="/publicSite/pages/coursAdultes.php" title="">Les cours adultes</a></li>-->
 		<li><a href="/publicSite/pages/mediation.php" title="">La mediation culturelle</a></li>
