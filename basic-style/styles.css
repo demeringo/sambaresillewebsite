@@ -205,8 +205,8 @@ Encadré dernière minute
 h2{
 	margin: 2em 0 1em 0;
 	font-weight: bold;
-	color: #000099; /* Blue (ori) */
-	/*color: #1046D1; blue (banner) */
+	/*color: #000099; Blue (ori) */
+	color: #1046D1; /*blue (banner) */
 	font-size: 110%;
 	padding-bottom: 0.2em;
 	}
