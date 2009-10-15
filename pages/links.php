@@ -19,27 +19,15 @@
 		Fondée sur le constat qu'il n'y avait pas dans l'agglomération toulousaine, de lieu de réflexion et de coordination, ni d'outil de proposition en matière de développement de la politique culturelle dans les champs non couverts et pris en charge par l'institution, l'association <a href="http://couac.org" target="_blank">le Couac</a> s'engage sur 4 axes de réflexion et d'action :<br/><br/>- la proximité, l'accessibilité, la démocratie de la culture et de l'acte artistique<br/><br/>- la reconnaissance de la culture en tant que service d'utilité publique et la défense de sa dimension non marchande<br/><br/>- l'ouverture de lieux, de création, de diffusion, de formation et d'échanges<br/><br/>- la redéfinition du rapport des institutions aux acteurs culturels<br/><br/>
 </p>
 <p/>
-  <h3>L'association Comunic'arte</h3>
-<p>L'association <a href="http://www.assocomunicarte.com/" target="_blank">Comunic'arte</a> est née d'une volonté de favoriser la communication entre les différents acteurs du Brésil dans le Sud-Ouest.</p>
-<a href="http://www.assocomunicarte.com/" target="_blank">
-<img class="right" width="200" src="../img/links/communicArte.jpg" alt="logo communic arte"/>
-</a>
-<p>Le constat est simple: à travers l'activité des associations, artistes et commerçants, c'est le Brésil du Nord au Sud qui est représenté. Voici pourquoi, à l'aube de l'année du Brésil en France, le réseau Toulousain, fort de ce dynamisme a voulu s'associer et vous montrer tout son talent sur ce portail internet.</p>
-<p>Cette plateforme, partie intégrante du projet, a pour objectif, d'une part, de créer des synergies entre les ambassadeurs du géant Sud-Américain en Midi-Pyrénées. D'autre part, il s'agit d'informer le public de toutes les manifestations organisées par le réseau Comunic'arte. 
-</p>
-<p>
-Samba résille est membre de Communic'arte.
-</p>
-<br/>
-<p/>
   	
   	<img class="right" width="100" src="../img/links/logo_bubblies_pills.gif" alt="logo des bubblies"/>
 		<h3>Les bubblies</h3>
 		<p>	
-		Si vous ne connaissez pas encore <a href="http://www.bubblies.net/" target="_blank">les bubblies</a>, allez découvrir ce groupe qui montre à tous que l'indépendance peut rimer avec projets d'envergure.
-		</p>
+ Groupe Indé Pop/Rock qui n'oublie pas d'avoir des idées ! <a href="http://www.bubblies.net/" target="_blank">les bubblies</a> <br/>
+Accompagnement d'artistes
+</p>
 		
-		<p/>
+<p/>
 		<img class="right" width="75" src="../img/links/daKrew_small.jpg" alt="logo da Krew"/>
 		<h3>Da Krew</h3>
 		<p>
@@ -51,7 +39,7 @@ Samba résille est membre de Communic'arte.
 		<a href="http://www.mixart-myrys.org/" target="_blank">	<img class="right" width="60" src="../img/links/myrys.jpg" alt="logo de Myrys"/></a>
 		<h3>Mix'Art Myrys</h3>
 			<p>
-		Mix'Art Myrys est un bouillonant collectif d'artistes autogéré. Concerts, performaces artistiques, expos ... ils savent tout faire et le meilleur moyen de se faire une idée est d'aller leur <a href="http://www.mixart-myrys.org/" target="_blank">rendre visite</a> sur leur site.	
+		Mix'Art Myrys est un bouillonant collectif d'artistes autogéré. Concerts, performaces artistiques, expos ...<a href="http://www.mixart-myrys.org/" target="_blank">www.mixart-myrys.org</a>
 		</p>						
 
     <p/>
@@ -64,7 +52,10 @@ Samba résille est membre de Communic'arte.
 		<p>
 		 La plupart de groupes suivis par l'association sont librement disponibles en téléchargement sur le site et il y a de très bonnes choses !
 		 </p>
+<h3>Toulouse asso</h3>
+<img class="right" width="150" src="../img/links/toulouse_asso_logo.gif" alt="logo toulouse asso"/>
 
+<p>Le portail Associatif toulousain: <a href="http://www.toulousasso.org/">www.toulousasso.org</a>
 
 		<p/>
 		<h2>Partitions, paroles et techniques instrumentales</h2>
