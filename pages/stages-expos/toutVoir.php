@@ -16,7 +16,16 @@
 <br/>
 <hr/>
 <br/>
+<h3 style="text-align:center">14 et 15 novembre 2009</h3>
+<h2><a href="stageClown_Novembre09.php">Stage initiation Clown - théatre</a></h2>
+<p>Animé par Vincent BUORO et David LUCAS</p>
+<p>Par l'association ZICOMATIC</p>
+<br/>
+<br/>
+<br/>
 
+<hr/>
+<br/>
 
 <h3 style="text-align:center">du 17 septembre au 24 octobre 2009</h3>
 <h2><a href="kicycol.php">Kicycol - Exposition</a></h2>
