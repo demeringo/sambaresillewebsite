@@ -36,10 +36,8 @@
     
     <div id="news">
 		<div id="expo">
-      <h1>Kicycol - Expo</h1>
-	    <p><a href="/publicSite/pages/stages-expos/kicycol.php">Arts graphiques, du 17 septembre au 24 octobre</a></p>
       <h1>Stage d'initiation Clown</h1>
-	    <p><a href="/publicSite/pages/stages-expos/stageClown_Novembre09.php">par l'association Zicomatic les 14 et 15 novembre</a></p>
+	    <p><a href="/publicSite/pages/stages-expos/stageClown_Decembre09.php">par l'association Zicomatic les 12 et 13 décembre</a></p>
 	    <p>
       <a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a>
     </p>
