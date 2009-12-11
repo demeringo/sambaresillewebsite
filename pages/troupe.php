@@ -8,14 +8,14 @@
 <div id="page">
 <?php include("headersAndMenu.php"); ?><!-- début du contenu spécifique à la page -->
 	<div id="content">	
-		<h1>Samba Résille : La troupe</h1>
+		<h1>Samba Résille : La compagnie</h1>
 		<!-- Following div links to the daily motion video of samba resille -->
 		<div><object width="480" height="414" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="movie" value="http://www.dailymotion.com/swf/xa5jfk_samba-resille_creation"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/xa5jfk_samba-resille_creation" type="application/x-shockwave-flash" width="480" height="414" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
-		<h2>La rue Comme scène favorite !</h2>
+		<h2>La rue comme scène favorite !</h2>
 		<p>
 		Samba Résille revisite à sa manière, les rythmes du Brésil, avec la même ferveur et toujours plus de joie, pour faire danser petits et grands, autour d'elle, en France, en Europe et en Afrique du Nord.</p>
 		<p>
-Depuis 1992, composée d'une trentaine de percussionnistes, la troupe propose des animations et spectacles de rue et sur scène bourrés d'énergie.
+Depuis 1992, composée d'une trentaine de percussionnistes, la compagnie propose des animations et spectacles de rue et sur scène bourrés d'énergie.
 Sur des rythmes <strong>principalement issus de la tradition populaire du Brésil</strong> (enredo, reggae, baião, merengue, ...), l'appropriation artistique de <strong>ce patrimoine se mixe aujourd'hui aux influences d'Europe du Sud des Antilles et du Maghreb, sur des créations originales</strong> funk, ragga/hip-hop, drum'n bass...</p>
 <p>
 En somme, presque un tour du monde rythmique, notre premier patrimmoine commun.

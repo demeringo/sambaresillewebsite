@@ -19,7 +19,7 @@
 		<li><a href="/publicSite/pages/asso.php" title="">L'association</a></li>
 		<li><a href="/publicSite/pages/agendaPaged.php" title="">Evenements !</a></li>
 		<li><a href="/publicSite/pages/pieuvre/intro.php" title="">La pieuvre</a></li>
-		<li><a href="/publicSite/pages/troupe.php" title="">La troupe</a></li>
+		<li><a href="/publicSite/pages/troupe.php" title="">La compagnie</a></li>
 		
 		<!-- <li><a href="/publicSite/pages/formuleMadj.php" title="">La formule MADJ</a></li> -->
 		<li><a href="/publicSite/pages/cours.php" title="">Cours de batucada</a></li>
