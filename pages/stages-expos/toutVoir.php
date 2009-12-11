@@ -14,8 +14,22 @@
 </div>
 <br/>
 <br/>
+
 <hr/>
 <br/>
+
+<h3 style="text-align:center">du 4 au 18 décembre 2009</h3>
+<h2><a href="expo-adherent-2009.php">Exposition collective</a></h2>
+<p>... ou un bref tour d'horizon de la vie associative ... créatrice!!
+</p>
+<p>Par Mohamed GADI, Viviane GASCO, Benoit LAJAUNIE, Gilles DEROQUEFEUIL, Eric DEBORD, Stéphane ROBAIRE & Audrey CAMPOURCY</p>
+<br/>
+<br/>
+<br/>
+
+<hr/>
+<br/>
+
 <h3 style="text-align:center">12 et 13 décembre 2009</h3>
 <h2><a href="stageClown_Decembre09.php">Stage initiation Clown - théatre</a></h2>
 <p>Animé par Vincent BUORO et David LUCAS</p>

@@ -36,12 +36,14 @@
     
     <div id="news">
 		<div id="expo">
+			<h1>Expo collective</h1>
+	    <p><a href="/publicSite/pages/stages-expos/expo-adherent-2009.php">Les adhérents d'exposent, du 4 au 18 décembre</a></p>
       <h1>Stage d'initiation Clown</h1>
 	    <p><a href="/publicSite/pages/stages-expos/stageClown_Decembre09.php">par l'association Zicomatic les 12 et 13 décembre</a></p>
 	    <p>
       <a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a>
-    </p>
-	    </div>
+			</p>
+			</div>
 	    <hr/>
 	    <!--
 	    <div>
