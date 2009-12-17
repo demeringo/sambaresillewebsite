@@ -14,7 +14,16 @@
 </div>
 <br/>
 <br/>
+<hr/>
+<br/>
 
+<h3 style="text-align:center">mercredis 13, 20, 27 et dimanche 31 janvier 2009</h3>
+<h2><a href="que_contas.php">Que contas ?</a></h2>
+<p>Des enfants créateurs présentent un regard sur leur monde.</p>
+<p>Ces créations sont le fruit d'ateliers proposés à Medellin  en Colombie par le « <strong>Collectif d'Actions Solidaires</strong> » en collaboration avec la corporation éducative « <strong>Combos</strong> » et le groupe « <strong>Jovenes Construyendo Futuro</strong> ».</p>
+<br/>
+<br/>
+<br/>
 <hr/>
 <br/>
 
@@ -26,7 +35,6 @@
 <br/>
 <br/>
 <br/>
-
 <hr/>
 <br/>
 
@@ -37,7 +45,6 @@
 <br/>
 <br/>
 <br/>
-
 <hr/>
 <br/>
 
