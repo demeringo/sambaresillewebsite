@@ -39,7 +39,7 @@
 			<h1>Expo collective</h1>
 	    <p><a href="/publicSite/pages/stages-expos/expo-adherent-2009.php">Les adhérents d'exposent, du 4 au 18 décembre</a></p>
       <h1>Que Contas ?</h1>
-	    <p><a href="/publicSite/pages/stages-expos/que-contas.php">Des enfants créateurs présentent un regard sur leur monde les 13, 20, 27 et 31 janvier</a></p>
+	    <p><a href="/publicSite/pages/stages-expos/que_contas.php">Des enfants créateurs présentent un regard sur leur monde les 13, 20, 27 et 31 janvier</a></p>
 	    <p>
       <a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a>
 			</p>
