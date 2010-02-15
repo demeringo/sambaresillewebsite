@@ -31,6 +31,7 @@
 		<li><a href="/publicSite/pages/links.php" title="">Liens</a></li>
 		<li><a href="/publicSite/pages/contacts.php" title="">Contacts</a></li>
 		<li><a href="/publicSite/pages/tarifs.php" title="">Tarifs</a></li>
+		<li><a href="http://samba-resille.org/blog/">Le blog</a></li>
 	</ul>
 	</div>
     
