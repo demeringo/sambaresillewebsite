@@ -31,16 +31,15 @@
 		<li><a href="/publicSite/pages/links.php" title="">Liens</a></li>
 		<li><a href="/publicSite/pages/contacts.php" title="">Contacts</a></li>
 		<li><a href="/publicSite/pages/tarifs.php" title="">Tarifs</a></li>
-		<li><a href="http://samba-resille.org/blog/">Le blog</a></li>
+		<li><a href="http://samba-resille.org/blog/">Blog</a></li>
 	</ul>
 	</div>
     
     <div id="news">
 		<div id="expo">
-			<h1>Expo collective</h1>
-	    <p><a href="/publicSite/pages/stages-expos/expo-adherent-2009.php">Les adhérents d'exposent, du 4 au 18 décembre</a></p>
-      <h1>Que Contas ?</h1>
-	    <p><a href="/publicSite/pages/stages-expos/que_contas.php">Des enfants créateurs présentent un regard sur leur monde les 13, 20, 27 et 31 janvier</a></p>
+			<h1>Stage d'initiation Clown</h1>     
+			<p><a href="/publicSite/pages/stages-expos/stageClown_mars_2010.php">
+			par l'association Zicomatic les 13 et 14 mars</a></p>
 	    <p>
       <a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a>
 			</p>
@@ -83,7 +82,7 @@
 		<div id="blog">
       	<h1>Le blog</h1>
         <p>
-        <a href="http://samba-resille.org/blog/">Photos et réactions !</a>
+        <a href="http://samba-resille.org/blog/">Photos et réactions</a>
         </p>
      </div>
 
