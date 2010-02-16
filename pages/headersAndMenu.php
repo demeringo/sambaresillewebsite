@@ -80,11 +80,9 @@
 			<hr/>
 		</div>
 		<div id="blog">
-      	<h1>Le blog</h1>
-        <p>
-        <a href="http://samba-resille.org/blog/">Photos et réactions</a>
-        </p>
-     </div>
+      	<h1><a href="http://www.myspace.com/sambaresilleplays">myspace  </a>
+      	<a href="http://samba-resille.org/blog/">--  blog<h1></a>
+    </div>
 
 		<!--
 		<hr/>
