@@ -17,6 +17,16 @@
 <hr/>
 <br/>
 
+<h3 style="text-align:center">10 et 11 avril 2010</h3>
+<h2><a href="stageClown_avril_2010.php">Stage initiation Clown - théatre</a></h2>
+<p>Animé par Vincent BUORO</p>
+<p>Par l'association ZICOMATIC</p>
+<br/>
+<br/>
+<br/>
+<hr/>
+<br/>
+
 <h3 style="text-align:center">13 et 14 mars 2010</h3>
 <h2><a href="stageClown_mars_2010.php">Stage initiation Clown - théatre</a></h2>
 <p>Animé par Vincent BUORO et David LUCAS</p>

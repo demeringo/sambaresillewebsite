@@ -38,8 +38,8 @@
     <div id="news">
 		<div id="expo">
 			<h1>Stage d'initiation Clown</h1>     
-			<p><a href="/publicSite/pages/stages-expos/stageClown_mars_2010.php">
-			par l'association Zicomatic les 13 et 14 mars</a></p>
+			<p><a href="/publicSite/pages/stages-expos/stageClown_avril_2010.php">
+			par l'association Zicomatic les 10 et 11 avril</a></p>
 	    <p>
       <a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a>
 			</p>
