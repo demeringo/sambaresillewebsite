@@ -27,6 +27,18 @@
 <hr/>
 <br/>
 
+<h3 style="text-align:center">27 et 28 mars 2010</h3>
+<img class="right" width="140" src="../../img/stages/Ibrahima_Bah.gif" alt="Ibrahima_bah"/>
+<h2><a href="stageTheatre_mars_2010.php">Stage de théatre: Le jeu d'acteur avec Ibrahima Bah</a></h2>
+
+<p>Par l'association Frontal</p>
+<br/>
+<br/>
+<br/>
+<hr/>
+<br/>
+
+
 <h3 style="text-align:center">13 et 14 mars 2010</h3>
 <h2><a href="stageClown_mars_2010.php">Stage initiation Clown - théatre</a></h2>
 <p>Animé par Vincent BUORO et David LUCAS</p>
