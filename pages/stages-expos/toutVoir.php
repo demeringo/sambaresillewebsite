@@ -27,6 +27,19 @@
 <hr/>
 <br/>
 
+<h3 style="text-align:center">jusqu'au 9 avril</h3>
+<img class="right" width="60" src="../../img/expo/rwanda.gif" alt="expo rwanda"/>
+<h2><a href="rwanda.php">Rwanda, 15 ans après</a></h2>
+<p>Expo Photo de Julie Pudlowski</p>
+<br/>
+<br/>
+<br/>
+<hr/>
+<br/>
+
+
+
+
 <h3 style="text-align:center">27 et 28 mars 2010</h3>
 <img class="right" width="140" src="../../img/stages/Ibrahima_Bah.gif" alt="Ibrahima_bah"/>
 <h2><a href="stageTheatre_mars_2010.php">Stage de théatre: Le jeu d'acteur avec Ibrahima Bah</a></h2>
