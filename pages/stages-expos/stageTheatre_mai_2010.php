@@ -13,7 +13,7 @@
 	<h1>Stage de théatre</h1>
 </div>
 
-<h1 style="text-align:center">27 et 28 mars</h1>
+<h1 style="text-align:center">1er et 2 mai</h1>
 
 <h2 style="text-align:center">Le Jeu d'Acteur avec Ibrahima Bah</h2>
 <h2 style="text-align:center">par l'association Frontal</h2>
@@ -35,7 +35,7 @@ Le corps, la voix (souffle et diction), et le masque, l'interprétation (travail 
 <br/>
 <br/>
 <p>
-Le stage se déroulera les 27 et 28 mars 2010<br/>
+Le stage se déroulera les 1er et 2 mai 2010<br/>
 27 mars - de 15h à 19h<br/>
 28 mars - de 10h à 12h30 et de 14h à 18h
 </p>
