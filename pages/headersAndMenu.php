@@ -37,14 +37,14 @@
     
     <div id="news">
 		<div id="expo">
-			<h1>Rwanda, 15 ans après</h1>
+			<!--<h1>Rwanda, 15 ans après</h1>
 			<p><a href="/publicSite/pages/stages-expos/rwanda.php">
 			Expo photo de Julie Pudlowski jusqu'au 9 avril</a></p>
 
 			<h1>Stage d'initiation Clown</h1>
 			<p><a href="/publicSite/pages/stages-expos/stageClown_avril_2010.php">
 			par l'association Zicomatic les 10 et 11 avril</a></p>
-
+-->
 			<h1>Stage de théatre</h1>
 			<p><a href="/publicSite/pages/stages-expos/stageTheatre_mai_2010.php">Le Jeu d'Acteur avec Ibrahima Bah les 1er et 2 mai</a></p>
 
