@@ -36,8 +36,8 @@ Le corps, la voix (souffle et diction), et le masque, l'interprétation (travail 
 <br/>
 <p>
 Le stage se déroulera les 1er et 2 mai 2010<br/>
-1er mai - de 15h à 19h<br/>
-2 mai - de 10h à 12h30 et de 14h à 18h
+1er mai - de 10h à 18h30<br/>
+2 mai - de 10h à 18h30
 </p>
 <img class="right" width="200" src="../../img/stages/LogoFrontal.gif" alt="Logo Frontal"/>
 <p>
