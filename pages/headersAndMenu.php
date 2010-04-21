@@ -2,19 +2,19 @@
 <?php include("agendaHelper.php"); ?>
 <!-- Partie generique du site (bandeaux, menus, news .....) -->	
 	<a href="/publicSite/pages">
-    <div id="bannerTitle">
+    <div id="bannerTitle"><!-- SART Banner -->
 		<h1>Samba-Resille</h1>
 		<p>a escola de samba de Toulouse</p>
-	</div>
+	</div><!-- END Banner -->
 	</a>
-	<ul id="shortMenu">
+	<ul id="shortMenu"> 
 		<!--<li><a href="/publicSite/pages/index.php">Retour a l'accueil</a> - </li>-->
 		<li><a href="/publicSite/pages/contacts.php">Contacts</a> - </li>
 		<li><a href="/publicSite/pages/privateSpace.php">Espace adhérents</a></li>
 		</li>
 	</ul>
 	
-	<div id="mainMenu">
+	<div id="mainMenu"> <!-- START Main menu -->
 	<ul>
 		<li><a href="/publicSite/pages/asso.php" title="">L'association</a></li>
 		<li><a href="/publicSite/pages/agendaPaged.php" title="">Evenements !</a></li>
@@ -33,34 +33,19 @@
 		<li><a href="/publicSite/pages/tarifs.php" title="">Tarifs</a></li>
 		<li><a href="http://samba-resille.org/blog/">Blog</a></li>
 	</ul>
-	</div>
+	</div> <!-- END Main menu -->
     
-    <div id="news">
-		<div id="expo">
-			<!--<h1>Rwanda, 15 ans après</h1>
-			<p><a href="/publicSite/pages/stages-expos/rwanda.php">
-			Expo photo de Julie Pudlowski jusqu'au 9 avril</a></p>
-
-			<h1>Stage d'initiation Clown</h1>
-			<p><a href="/publicSite/pages/stages-expos/stageClown_avril_2010.php">
-			par l'association Zicomatic les 10 et 11 avril</a></p>
--->
+    <div id="news"> <!-- START News -->
+		
+		<div id="expo"> <!-- START Expo -->
 			<h1>Stage de théatre</h1>
 			<p><a href="/publicSite/pages/stages-expos/stageTheatre_mai_2010.php">Le Jeu d'Acteur avec Ibrahima Bah les 1er et 2 mai</a></p>
 
 			<p><a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a></p>
-		</div>
+		</div> <!-- END Expo -->
 	    <hr/>
-	    <!--
-	    <div>
-	    <h1>Le concert (était presque) parfait</h1>
-	    <p><a href="/publicSite/pages/residences/concert_presque_parfait.php">La companie "la Muse et l'Hic" en résidence - du 21 au 30 avril.</a></p>
-	    <h1>Le vol du manchot</h1>
-	    <p><a href="/publicSite/pages/residences/le_vol_du_manchot.php">Sortie de création, par la Matawari Cie, les 1er 2 et 8 mai à 21h.      </a></p>
-	    </div>
-	    <hr/>
-	    -->
-    	<div id="shortAgenda">
+	   
+    	<div id="shortAgenda"> <!-- START Agenda -->
     		<h1>Derniere minute !</h1>
 	        <ul>
   	    	<?php	    	
@@ -76,33 +61,18 @@
   	    	    }
   	    	}
   	    	?>
-  	      </ul>
+  	      	</ul>
 			<p>
 			<a href="/publicSite/pages/agendaPaged.php">Tous les évènements</a>
-			<!--<br/>
-			<a href="http://www.samba-resille.org/publicSite/pages/agenda.xml">Flux RSS</a>-->
 			</p>
-			<hr/>
-		</div>
-		<div id="blog">
-      	<h1><a href="http://www.myspace.com/sambaresilleplays">myspace  </a>
-      	<a href="http://samba-resille.org/blog/">--  blog<h1></a>
-    </div>
+			<hr>
+		</div> <!-- END Agenda -->
 
-		<!--
-		<hr/>
+		<div id="blog"> <!-- START Blog -->
+      		<h1><a href="http://www.myspace.com/sambaresilleplays">myspace  </a>
+      		<a href="http://samba-resille.org/blog/">--  blog<h1></a>
+    	</div> <!-- END Blog --> 
 
-					<h1>Telecharger <em>Noticias</em></h1>
-				<p>
-		<a href="/publicSite/documents/FEVRIER.pdf" type="application/pdf" >La prog. de Fevrier (pdf)</a>
-		</p>
-		<p>
-		<a href="/publicSite/documents/NoticiasNov06.PDF" type="application/pdf" >Les news et la prog. de novembre (pdf)</a>
-		</p>
-		<p>
-		<a href="/publicSite/documents/NoticiasDec06.PDF" type="application/pdf" >Les news et la prog. de decembre (pdf)</a>
-		</p>
-  -->
-	</div>
+	</div> <!-- END News -->
 
 <!-- Fin de la partie generique-->
