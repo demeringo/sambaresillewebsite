@@ -172,6 +172,7 @@ Encadré dernière minute
 /* Contenu principal
 ******************************************************************/
 #content{
+    font-size:12px;
 	position: relative;
 	top: 0;
 	left: 20px;
