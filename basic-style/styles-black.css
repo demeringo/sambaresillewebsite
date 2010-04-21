@@ -59,7 +59,7 @@ body{
 
   text-align: right;
   font-weight: normal;
-  font-size: 270%;
+  font-size: 36px;
   margin: 0.5em 0 1em 0;
   }
 	
@@ -85,12 +85,12 @@ L'agenda
 
 .agenda h2{
   color: blue;
-  font-size: 140%;
+  font-size: 16px;
 	margin: 10px 5px 10px 5px;
 	}
 .agenda h3{
   color: white;
-	font-size: 120%;
+	font-size: 14px
 	font-style: italic;
 	font-weight: normal;
 	margin: 10px 5px 10px 5px;
@@ -108,13 +108,13 @@ L'agenda
 .agenda input{
   color: white;
   background: black;
-  font-size: 120%;
+  font-size: 14px;
   border: 1px dotted lightgray;
   }
   
 .agenda input#title{
   color: blue;
-  font-size: 140%;
+  font-size: 16px;
 	margin: 10px 5px 10px 5px;
   }
 
