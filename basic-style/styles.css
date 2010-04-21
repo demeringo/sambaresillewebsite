@@ -17,7 +17,7 @@ body{
 	 background: url(img/haunted.gif) top right repeat;
 
 	color: black;
-	font-size: 75%;
+	font-size: 12px;
 	/*font-family:"Bitstream Vera Sans", Verdana, Arial, Helvetica, Serif;*/
 	font-family: Verdana, Geneva, sans-serif;
 	}
@@ -143,8 +143,8 @@ Encadré dernière minute
 	}
 
 	#news h1{
+        font-size: 12px;
 		margin: 0.5em;	
-	 	font-size: 100%;
 		color: #A60000; /* Red */
 	}
 	#news p{
@@ -198,7 +198,7 @@ Encadré dernière minute
 	}	
 #content h1{
 	margin: 1.5em 0 1em 0;
-	font-size: 200%;
+	font-size: 24px;
 	font-weight: bold;
 	color: white;
 	}
@@ -207,7 +207,7 @@ h2{
 	font-weight: bold;
 	/*color: #000099; Blue (ori) */
 	color: #1046D1; /*blue (banner) */
-	font-size: 110%;
+	font-size: 14px;
 	padding-bottom: 0.2em;
 	}
 a{
@@ -277,7 +277,7 @@ L'agenda
 	margin: 10px 5px 10px 5px;
 	}
 .agenda h3{
-	font-size: 100%;
+	font-size: 12px;
 	font-style: italic;
 	font-weight: normal;
 	margin: 10px 5px 10px 5px;
@@ -295,7 +295,7 @@ L'agenda
 /* La page de liens
 ******************************************************************/
 .links h2{
-	font-size: 120%;
+	font-size: 14px;
 	margin-bottom: 1px;
 	color: #228822;
 	border: 2px dotted red;
@@ -307,7 +307,7 @@ L'agenda
 ******************************************************************/
 #legal {
 	margin: 200px 0 0 0;
-	font-size: 75%;
+	font-size: 9px;
 	border-top: 1px solid;
 	color: #A60000;
 	clear: both;
