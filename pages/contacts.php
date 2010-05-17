@@ -33,7 +33,7 @@
 			<li>Sandie Guilloteau: Vie associative et médiation culturelle (<a href="mailto:vieasso@samba-resille.org" >vieasso@samba-resille.org</a>)</li>
 			<li>Gregory Valter: Coordination Education Artistique et Médiation Culturelle (<a href="mailto:greg@samba-resille.org" >greg@samba-resille.org</a>)</li>
 			<li>Johann Andoche: Responsable de la formation musicale secteur adulte (<a href="mailto:johann@samba-resille.org" >johann@samba-resille.org</a>)</li>
-			<li>Laurent Vildary: Chargé de développement (<a href="mailto:laurent@samba-resille.org"></a>laurent@samba-resille.org)</li>
+			<li>Laurent Vildary: Chargé de développement (<a href="mailto:laurent@samba-resille.org">laurent@samba-resille.org</a>laurent@samba-resille.org)</li>
 		</ul> 
 		<p><strong>Le Bureau de l'association</strong></p>
 		<ul>
