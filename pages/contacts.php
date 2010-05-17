@@ -33,16 +33,17 @@
 			<li>Sandie Guilloteau: Vie associative et médiation culturelle (<a href="mailto:vieasso@samba-resille.org" >vieasso@samba-resille.org</a>)</li>
 			<li>Gregory Valter: Coordination Education Artistique et Médiation Culturelle (<a href="mailto:greg@samba-resille.org" >greg@samba-resille.org</a>)</li>
 			<li>Johann Andoche: Responsable de la formation musicale secteur adulte (<a href="mailto:johann@samba-resille.org" >johann@samba-resille.org</a>)</li>
+			<li>Laurent Vildary: Chargé de développement (<a href="mailto:laurent@samba-resille.org"></a>laurent@samba-resille.org)</li>
 		</ul> 
 		<p><strong>Le Bureau de l'association</strong></p>
 		<ul>
-			<li>Président et vice président: David Crochet  / Olivier de Méringo</li>
-			<li>Trésorière et adjoint: Florence Bloch / Benoit Cornille</li>
-			<li>Secrétaire et adjointe: Simon Tinchant / Carole Bidou </li>
+			<li>Président et vice présidente: Stéphane Robaire  / Sylvaine Duclos</li>
+			<li>Trésorière et adjointe: Carole Bidou / Vanessa Sénac </li>
+			<li>Secrétaire et adjoint: Simon Tinchant / Jérôme Bernardini</li>
 		</ul>
 		<p><strong>Le conseil d'admnistration</strong></p>
 		<p>Outre les membres du bureau, le conseil d'administration est constitué de:<br/>
-		Linda Boutera, Sylvaine Duclos, Alexandre Nouvel, Amina Tazi et  Arnaud Thomas.<br/>
+		Florence Bloch, Jalila Bouanini, Linda Boutera, David Crochet, Virginie Grayo, Olivier de Méringo, Alexandre Nouvel, Jeanne Perier et Lucie Rey.<br/>
 		<br/>
 		Vous pouvez joindre l'équipe du CA à  <a href="mailto:ca@samba-resille.org">ca@samba-resille.org</a>
 		</p>
