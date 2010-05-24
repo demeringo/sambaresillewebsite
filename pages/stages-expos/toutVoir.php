@@ -17,6 +17,16 @@
 <hr/>
 <br/>
 
+<h3 style="text-align:center">22, 23 et 24 mars 2010</h3>
+<h2><a href="stageClown_mai_2010.php">Stage initiation Clown - théatre</a></h2>
+<p>Animé par David LUCAS</p>
+<p>Par l'association ZICOMATIC</p>
+<br/>
+<br/>
+<br/>
+<hr/>
+<br/>
+
 <h3 style="text-align:center">1er et 2 mai 2010</h3>
 <img class="right" width="140" src="../../img/stages/Ibrahima_Bah.gif" alt="Ibrahima_bah"/>
 <h2><a href="stageTheatre_mai_2010.php">Stage de théatre: Le jeu d'acteur avec Ibrahima Bah</a></h2>
