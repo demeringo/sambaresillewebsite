@@ -1,20 +1,24 @@
 <?php include("database.php"); ?>
 <?php include("agendaHelper.php"); ?>
 <!-- Partie generique du site (bandeaux, menus, news .....) -->	
-	<a href="/publicSite/pages">
-    <div id="bannerTitle"><!-- SART Banner -->
+	
+    <!-- SART Banner -->
+    <a href="/publicSite/pages">
+    <div id="bannerTitle">
 		<h1>Samba-Resille</h1>
 		<p>a escola de samba de Toulouse</p>
-	</div><!-- END Banner -->
+	</div>
 	</a>
+	<!-- END Banner -->
+	
 	<ul id="shortMenu"> 
 		<!--<li><a href="/publicSite/pages/index.php">Retour a l'accueil</a> - </li>-->
 		<li><a href="/publicSite/pages/contacts.php">Contacts</a> - </li>
 		<li><a href="/publicSite/pages/privateSpace.php">Espace adhérents</a></li>
-		</li>
 	</ul>
 	
-	<div id="mainMenu"> <!-- START Main menu -->
+	<!-- START Main menu -->
+	<div id="mainMenu"> 
 	<ul>
 		<li><a href="/publicSite/pages/asso.php" title="">L'association</a></li>
 		<li><a href="/publicSite/pages/agendaPaged.php" title="">Evenements !</a></li>
@@ -24,8 +28,8 @@
 		<!-- <li><a href="/publicSite/pages/formuleMadj.php" title="">La formule MADJ</a></li> -->
 		<li><a href="/publicSite/pages/cours.php" title="">Cours de batucada</a></li>
 		<li><a href="/publicSite/pages/chorale_enfants.php" title="">Chorale enfants</a></li>
-		<!--<li><a href="/publicSite/pages/coursEnfants.php" title="">Les cours enfant</a></li>
-		<li><a href="/publicSite/pages/coursAdultes.php" title="">Les cours adultes</a></li>-->
+		<!--<li><a href="/publicSite/pages/coursEnfants.php" title="">Les cours enfant</a></li> -->
+		<!-- <li><a href="/publicSite/pages/coursAdultes.php" title="">Les cours adultes</a></li>-->
 		<li><a href="/publicSite/pages/mediation.php" title="">La mediation culturelle</a></li>
 		<li><a href="/publicSite/pages/cicc.php" title="">Le CICC</a></li>
 		<li><a href="/publicSite/pages/links.php" title="">Liens</a></li>
@@ -33,7 +37,8 @@
 		<li><a href="/publicSite/pages/tarifs.php" title="">Tarifs</a></li>
 		<li><a href="http://samba-resille.org/blog/">Blog</a></li>
 	</ul>
-	</div> <!-- END Main menu -->
+	</div>
+	<!-- END Main menu -->
     
     <div id="news"> <!-- START News -->
 		
@@ -67,12 +72,12 @@
 			<p>
 			<a href="/publicSite/pages/agendaPaged.php">Tous les évènements</a>
 			</p>
-			<hr>
+			<hr/>
 		</div> <!-- END Agenda -->
 
 		<div id="blog"> <!-- START Blog -->
-      		<h1><a href="http://www.myspace.com/sambaresilleplays">myspace  </a>
-      		<a href="http://samba-resille.org/blog/">--  blog<h1></a>
+      		<h1><a href="http://www.myspace.com/sambaresilleplays">myspace </a>--
+      		<a href="http://samba-resille.org/blog/"> blog</a></h1>
     	</div> <!-- END Blog --> 
 
 	</div> <!-- END News -->
