@@ -21,7 +21,7 @@
     <br/><br/><br/><br/><br/><br/><br/><br/>
     <table>
     <tr>
-    <td><a href="18ans.php">Programme complet</a></td><td><a id="popupClose">Accès au site</a></td>
+    <td><a href="18ans.php">Détails, programme...</a></td><td><a id="popupClose">     Accès direct au site     </a></td>
     </tr>
     </table> 
 </div>  
