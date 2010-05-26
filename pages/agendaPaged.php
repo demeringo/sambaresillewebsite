@@ -13,14 +13,15 @@
 		  <h1>Evénements !</h1>
 		 
     </div>
-     <p class="right"><a href="eventsFeed.php">La prog en RSS</a>&nbsp;<img width="16" src="../basic-style/img/small-rss.gif">
+     <p class="right"><img width="16" src="../basic-style/img/small-rss.gif"><a href="eventsFeed.php">&nbsp;La prog en RSS</a>
      <br/>
-     <a href="mailingList.php" style='font-size:130%; color:red'>Recevoir la prog par mail</a>&nbsp;<img width="16" src="">
+     <img width="16" src="../basic-style/img/Get_Mail.png"><a href="mailingList.php">&nbsp;Newslestter</a>     
+     <br/>
+     <!-- share on facebook link -->
+     <a name="fb_share" type="icon_link" href="http://www.facebook.com/sharer.php">Partager</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
      </p>
-
-       <p class="right"></p>
-
-
+	
+      
 
 <!-- Navigation entre les pages d'agenda -->
 <div style="text-align:center">
@@ -85,10 +86,15 @@ foreach($events as $event){
    <p><a href="agendaOld.php">Accès aux archives</a></p>
    <?php } ?>
 </div>
- <p class="right"><a href="eventsFeed.php">La prog en RSS</a>&nbsp;<img width="16" src="../basic-style/img/small-rss.gif">
- <br/>
-      <a href="mailingList.php" style='font-size:130%; color:red'>Recevoir la prog par mail</a>&nbsp;<img width="16" src="">
- </p>
+
+<p class="right">
+	<img width="16"src="../basic-style/img/small-rss.gif"><a href="eventsFeed.php">&nbsp;La prog en RSS</a>
+	<br/>
+	<img width="16" src="../basic-style/img/Get_Mail.png"><a href="mailingList.php">&nbsp;Newslestter</a>     
+     <br/>
+     <!-- share on facebook link -->
+     <a name="fb_share" type="icon_link" href="http://www.facebook.com/sharer.php">Partager</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+</p>
 
 
 

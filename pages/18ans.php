@@ -13,10 +13,16 @@
 
 
 
+<div class="right">
 
 <br/>
+<a name="fb_share" type="icon_link" href="http://www.facebook.com/sharer.php">Partager</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+</div>
+
+
 <br/>
 <img class="center" width="500" src="../img/18ans/Title2ORANGE.gif" alt="Samba Résille fête ses 18 ans"/>
+
 
 
 
@@ -29,7 +35,6 @@
 <br/>
 
 <h2 style="text-align:center">Parades, concerts, expos, forums et activités jeune public</h2>
-
 <br/>
 <img class="right" width="180" src="../img/18ans/Theme.gif" alt="Racines d'ailleurs, rites d'aujourd'hui"/>
 <br/>
