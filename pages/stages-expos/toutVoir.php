@@ -16,6 +16,16 @@
 <br/>
 <hr/>
 <br/>
+<h3 style="text-align:center">à partir du 3 juin 2010</h3>
+<h2><a href="expo-Zia-Zeff.php">Les indiens d'amazonie</a></h2>
+<p>Expo photo</p>
+<p>Par Zia Zff</p>
+<br/>
+<br/>
+<br/>
+<hr/>
+<br/>
+
 
 <h3 style="text-align:center">22, 23 et 24 mars 2010</h3>
 <h2><a href="stageClown_mai_2010.php">Stage initiation Clown - théatre</a></h2>

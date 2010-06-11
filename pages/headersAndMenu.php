@@ -43,8 +43,8 @@
     <div id="news"> <!-- START News -->
 		
 		<div id="expo"> <!-- START Expo -->
-			<h1>Stage de théatre</h1>
-			<p><a href="/publicSite/pages/stages-expos/stageTheatre_mai_2010.php">Le Jeu d'Acteur avec Ibrahima Bah les 1er et 2 mai</a></p>
+			<h1>Les indiens d'Amazonie</h1>
+			<p><a href="/publicSite/pages/stages-expos/expo-Zia-Zeff.php">Expo photo par Zia Zeff à partir du 3 juin</a></p>
 			<!-- <h1>Stage de clown</h1>
 			<p><a href="/publicSite/pages/stages-expos/stageClown_mai_2010.php">Par David Lucas (association Zicomatic), 22, 23 et 24 mai</a></p>-->
 			<h1>18 ans !</h1>
