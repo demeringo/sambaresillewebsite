@@ -3,30 +3,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
 	<?php include("includes.html"); ?>
-	<!-- Popup START -->
-	<link rel="stylesheet" href="/publicSite/basic-style/popup.css" type="text/css" />
-	<script src="http://code.jquery.com/jquery-1.4.2.min.js" type="text/javascript"></script>  
-	<script src="../javascript/popup.js" type="text/javascript"></script>  
-	<!-- Popup END -->
 </head>
 <body>
-
-<div id="backgroundPopup" ></div>
-<!-- Ajout de la pop up de l'anniversaire -->
-<div id="popup">   
-	<h1>Du 29 mai au 7 juillet</h1>
-	<br/><br/>
-	<img width="150" src="../img/18ans/Event.gif" alt="Samba Résille fête ses 18 ans"/>
-	<img width="220" src="../img/18ans/Theme.gif" alt="Racines d'alleurs"/>    
-    <br/><br/><br/><br/><br/><br/><br/><br/>
-    <table>
-    <tr>
-    <td><a href="18ans.php">Détails, programme...</a></td><td><a id="popupClose">     Accès direct au site     </a></td>
-    </tr>
-    </table> 
-</div>  
-<!-- Fin de la pop-up anniversaire -->
-
 
 <div id="page">
 <?php include("headersAndMenu.php"); ?>

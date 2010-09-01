@@ -43,12 +43,8 @@
     <div id="news"> <!-- START News -->
 		
 		<div id="expo"> <!-- START Expo -->
-			<h1>Les indiens d'Amazonie</h1>
-			<p><a href="/publicSite/pages/stages-expos/expo-Zia-Zeff.php">Expo photo par Zia Zeff à partir du 3 juin</a></p>
 			<!-- <h1>Stage de clown</h1>
 			<p><a href="/publicSite/pages/stages-expos/stageClown_mai_2010.php">Par David Lucas (association Zicomatic), 22, 23 et 24 mai</a></p>-->
-			<h1>18 ans !</h1>
-			<p><a href="/publicSite/pages/18ans.php">Plus d'un mois d'évenements du 29 mai au 7 Juillet !</a></p>
 			<p><a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a></p>
 		</div> <!-- END Expo -->
 	    <hr/>
