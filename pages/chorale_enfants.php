@@ -10,7 +10,7 @@
 <!-- début du contenu spécifique à la page -->
 <div id="content">
 <h1 style="text-align:center">Chorale enfants<br/>
-SAISON 2009-2010</h1>
+SAISON 2010-2011	</h1>
 <img class="center" alt="" src="../img/chorale_enfants.jpg">
 </div>
 <!-- fin du contenu spécifique de la page -->

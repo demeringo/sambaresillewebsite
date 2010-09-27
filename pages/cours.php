@@ -11,13 +11,13 @@
 <!-- début du contenu spécifique à la page -->
 <div id="content">	
 <h1 style="text-align:center">Inscriptions - Samba Résille<br/>
-SAISON 2009-2010</h1>
+SAISON 2010-2011</h1>
 <img class="center" alt="" src="../img/cours/cours.jpeg" height="267" width="425">
 
 <p>
 Samba Résille a développé son <b>école associative</b> toujours dans le même but solidaire et citoyen de donner accès à l'art. Que l'on soit virtuose, ou plutôt "gauche" de la musique, <b>chacun trouve sa place</b>,
-parce qu'on ne vient pas à Samba Résille pour ressortir diplomé de Samba, on vient y découvrir un patrimoine culturel riche et varié, d'influences multiethnique tout comme l'est le pays qui l'abrite.<br/>
-Les cours débutants traversent en musique les principales influences du Brésil, les cours intermédiaires quand à eux, oscilent entre les rytmes traditionnels et les créations et arrangements de la Troupe Samba Résille.
+parce qu'on ne vient pas à Samba Résille pour ressortir diplômé de Samba, on vient y découvrir un patrimoine culturel riche et varié, d'influences multiethnique tout comme l'est le pays qui l'abrite.<br/>
+Les cours débutants traversent en musique les principales influences du Brésil, les cours intermédiaires quand à eux, oscillent entre les rythmes traditionnels et les créations et arrangements de la Troupe Samba Résille.
 </p>
       
 <p>
@@ -26,7 +26,7 @@ Les cours débutants traversent en musique les principales influences du Brésil, 
 Explorer le rythme, travailler l'indépendance gauche droite, pied main, enrichir
 son patrimoine culturel, travailler la solidarité et la complémentarité
 des individus et du groupe, sont les objectifs principaux du processus
-d'apprentissage. <b>Ainsi, aucun pré-requis musical n'est demandé àvotre arrivée. </b>
+d'apprentissage. <b>Ainsi, aucun pré-requis musical n'est demandé à votre arrivée. </b>
 </p>
  
 <p>     
@@ -43,7 +43,6 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
       <td valign="top">
         <b>Cours adultes débutants</b><br/>
         Lundi 18h30 - 20h30<br/>
-        Mardi 20h - 22h<br/>
         <br/>
         <b>Cours adultes intermédiaires</b><br/>
         Lundi 21h - 23h<br/>
@@ -51,7 +50,7 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
         <b>Cours éveil musical (4 à 5 ans)</b><br/>
         Mercredi 17h à 18h<br/>
         <b>Eveil Batucada (5 à 7 ans)</b><br/>
-        Mercredi 16h à 17h<br/>
+        Mercredi 15h30 à 16h30<br/>
         <b>Batucada Enfants (8 à 11 ans)</b><br/>
         Mardi 17h30 à 18h30<br/>
         <br/>
@@ -84,10 +83,10 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
     <hr/>
     <h2 style="text-align:center">COMMENT S'INSCRIRE ?</h2>
     <p>
-    <b>Les inscriptions débutent à partir du 1er Juillet 2009.</b><br/>
+    <b>Les inscriptions débutent à partir du 1er Juillet 2010.</b><br/>
     <br/>
     Vous pouvez :<br/>
-    venir directement au local de l'association, 38 rue Roquelaine Tlse,<br/>
+    venir directement au local de l'association, 38 rue Roquelaine Toulouse,<br/>
     appeller l'association au 05 34 416 216<br/>
     ou envoyer un mail à <a href="mailto:cicc@samba-resille.org">cicc@samba-resille.org</a>.<br/>
     <br/>
@@ -97,10 +96,10 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
     <hr/>
     <h2 style="text-align:center">QUAND COMMENCENT LES COURS ?</h2>
 <p>
-    <strong>Ateliers adultes</strong>: reprise le lundi 5 et mardi 6 octobre.
+    <strong>Ateliers adultes</strong>: reprise le lundi 4 octobre.
     <br/>
     <br/>
-    <strong>Ateliers enfants</strong>: reprise le mardi 6 et le mercredi 7 octobre.
+    <strong>Ateliers enfants</strong>: reprise le mardi 5 et le mercredi 6 octobre.
    
         </p>
 </div>

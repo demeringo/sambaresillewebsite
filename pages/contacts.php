@@ -37,13 +37,13 @@
 		</ul> 
 		<p><strong>Le Bureau de l'association</strong></p>
 		<ul>
-			<li>Président et vice présidente: Stéphane Robaire  / Sylvaine Duclos</li>
+			<li>Président et vice présidente: Stéphane Robaire-Buchstein  / Sylvaine Duclos</li>
 			<li>Trésorière et adjointe: Carole Bidou / Vanessa Sénac </li>
-			<li>Secrétaire et adjoint: Simon Tinchant / Jérôme Bernardini</li>
+			<li>Secrétaire: Simon Tinchant</li>
 		</ul>
 		<p><strong>Le conseil d'admnistration</strong></p>
 		<p>Outre les membres du bureau, le conseil d'administration est constitué de:<br/>
-		Florence Bloch, Jalila Bouanini, Linda Boutera, David Crochet, Virginie Grayo, Olivier de Méringo, Alexandre Nouvel, Jeanne Perier et Lucie Rey.<br/>
+		Jérôme Bernardini, Florence Bloch, Jalila Bouanini, Linda Boutera, David Crochet, Virginie Grayo, Olivier de Méringo, Alexandre Nouvel, Jeanne Perier et Lucie Rey.<br/>
 		<br/>
 		Vous pouvez joindre l'équipe du CA à  <a href="mailto:ca@samba-resille.org">ca@samba-resille.org</a>
 		</p>
