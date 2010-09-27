@@ -55,7 +55,7 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
         Mardi 17h30 à 18h30<br/>
         <br/>
         <b>Adhésion annuelle </b><font face="Arial"><b><i>(obligatoire)</i></b><br/>
-         Octobre 2008 à Septembre 2009<br/>
+         Octobre 2010 à Septembre 2011<br/>
          <br/>
          <i>* 23 euros = demandeur d'emploi, scolaires, retraités - 31 euros = salariés</i>
       </td>
