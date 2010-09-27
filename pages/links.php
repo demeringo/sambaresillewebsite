@@ -13,19 +13,32 @@
 		<h1>Liens</h1>
 		<h2>Acteurs culturels locaux et partenaires</h2>
 		<p/>	
-		<h3>Le COUAC (COllectif d'Urgence d'Acteurs Culturels de l'agglomération toulousaine)</h3>
-		<p>
-		<a href="http://couac.org" target="_blank"><img class="right" width="150" src="../img/links/couac.jpg" alt="logo du COUAC"/></a>
-		Fondée sur le constat qu'il n'y avait pas dans l'agglomération toulousaine, de lieu de réflexion et de coordination, ni d'outil de proposition en matière de développement de la politique culturelle dans les champs non couverts et pris en charge par l'institution, l'association <a href="http://couac.org" target="_blank">le Couac</a> s'engage sur 4 axes de réflexion et d'action :<br/><br/>- la proximité, l'accessibilité, la démocratie de la culture et de l'acte artistique<br/><br/>- la reconnaissance de la culture en tant que service d'utilité publique et la défense de sa dimension non marchande<br/><br/>- l'ouverture de lieux, de création, de diffusion, de formation et d'échanges<br/><br/>- la redéfinition du rapport des institutions aux acteurs culturels<br/><br/>
-</p>
-<p/>
+		<p/>
   	
+  	<h3>La companie Jeux de Mômes</h3>
+<p>
+La companie Jeux de Mômes est née à Toulouse en 1996 de Père inconnu. Sa mère: la Politique de la Ville, l'élève seule depuis 14 ans au coeur des quartiers du Mirail. Ensemble, elles ont mis en place des activités d'expression théâtrale pour des enfants, des adolescents et des adultes. <br/>
+<a href="http://compagnie-jeuxdemomes.jimdo.com/">La companie Jeux de Mômes</a>
+</p>
+  	<br>
   	<img class="right" width="100" src="../img/links/logo_bubblies_pills.gif" alt="logo des bubblies"/>
 		<h3>Les bubblies</h3>
 		<p>	
  Groupe Indé Pop/Rock qui n'oublie pas d'avoir des idées ! <a href="http://www.bubblies.net/" target="_blank">les bubblies</a> <br/>
 Accompagnement d'artistes
 </p>
+
+<br>
+<h3>Le COUAC (COllectif d'Urgence d'Acteurs Culturels de l'agglomération toulousaine)</h3>
+		<p>
+		<a href="http://couac.org" target="_blank"><img class="right" width="150" src="../img/links/couac.jpg" alt="logo du COUAC"/></a>
+		Fondée sur le constat qu'il n'y avait pas dans l'agglomération toulousaine, de lieu de réflexion et de coordination, ni d'outil de proposition en matière de développement de la politique culturelle dans les champs non couverts et pris en charge par l'institution, l'association <a href="http://couac.org" target="_blank">le Couac</a> s'engage sur 4 axes de réflexion et d'action :<br/><br/>
+- la proximité, l'accessibilité, la démocratie de la culture et de l'acte artistique<br/><br/>
+- la reconnaissance de la culture en tant que service d'utilité publique et la défense de sa dimension non marchande<br/><br/>
+- l'ouverture de lieux, de création, de diffusion, de formation et d'échanges<br/><br/>
+- la redéfinition du rapport des institutions aux acteurs culturels<br/><br/>
+</p>
+
 		
 <p/>
 		<img class="right" width="75" src="../img/links/daKrew_small.jpg" alt="logo da Krew"/>
@@ -43,7 +56,7 @@ Accompagnement d'artistes
 		</p>						
 
     <p/>
-		<h3>Le Rém-i (Réseau des musiciens indépendants)</h3>
+		<!--<h3>Le Rém-i (Réseau des musiciens indépendants)</h3>
 		<a href="http://www.rem-i.org/" target="_blank">
 		<img class="right" width="50" src="../img/links/Remi-logo.jpg" alt="logo du Rem-i"/>
 		</a>
@@ -51,7 +64,8 @@ Accompagnement d'artistes
 		Foncez jetter un oeil sur le site du <a href="http://www.rem-i.org/" target="_blank">rem-i</a> qui soutien les musiciens indépendants de tous bord. Cette association toujours très active organise de nombreux concerts Sur Toulouse et ses environs</p>
 		<p>
 		 La plupart de groupes suivis par l'association sont librement disponibles en téléchargement sur le site et il y a de très bonnes choses !
-		 </p>
+		 </p>-->
+		 
 <h3>Toulouse asso</h3>
 <img class="right" width="150" src="../img/links/toulouse_asso_logo.gif" alt="logo toulouse asso"/>
 
@@ -94,11 +108,30 @@ Accompagnement d'artistes
 		<h2>D'autres groupes de samba</h2>
 		<p>
 		Voici une liste des sites de groupes que nous avons rencontrés et avec qui nous avons partagé des moments privilégiés.
-		</p>		<ul>
-			<li>Ils sont venus mettre le feu <a href="http://www.sambadarua.org/2006/07/24/en-toulouse-con-la-familia/"> à Toulouse et Pamiers en juillet 2006</a>. Un ancien membre de Samba Résille, Felipe, rentré au pays, a reconstitué là-bas un groupe de motivés (Ceux qui les ont vus jouer savent que le mot est faible !) : c'est <a href="http://www.sambadarua.org/" target="_blank">Samba da Rua</a> <i>(en espagnol)</i>.</li>		   <li><a href="http://www.algonet.se/~abunda" Target="_blank">A Bunda</a> - G&ouml;teborg, Su&egrave;de <i>(en anglais)</i></li>				   <li><a href="http://www.aquarela-paris.com" Target="_blank">Aquarela</a> - Paris, France</li>		   <li><a href="http://www.atabak.org" Target="_blank">Atabak</a> - Lille, France</li>		   <li><a href="http://www.dt.renshaw.ukonline.co.uk/index.htm">Bat-2-K</a> - Southampton, Royaume-Uni <i>(en anglais)</i></li>			   <li><a href="http://www.eman.id-net.fr/html/batucada.htm" Target="_blank">Batucada del Mundo</a> - Nancy, France</li>
-		   <li><a href="http://blocodaqui.free.fr/" Target="_blank">Blocodaqui</a> propose des cours et des répétitions de percussions brésiliennes ouverts aux amateurs (débutants ou expérimentés).</li>		   <li><a href="http://www.samba-nantes.fr" Target="_blank">Cora&ccedil;&atilde;o do Brasil</a> - Nantes, France</li>
+		</p>
+		<ul>
+			<li>Ils sont venus mettre le feu <a href="http://www.sambadarua.org/2006/07/24/en-toulouse-con-la-familia/"> à Toulouse et Pamiers en juillet 2006</a>. Un ancien membre de Samba Résille, Felipe, rentré au pays, a reconstitué là-bas un groupe de motivés (Ceux qui les ont vus jouer savent que le mot est faible !) : c'est <a href="http://www.sambadarua.org/" target="_blank">Samba da Rua</a> <i>(en espagnol)</i>.</li>
+		   <li><a href="http://www.algonet.se/~abunda" Target="_blank">A Bunda</a> - G&ouml;teborg, Su&egrave;de <i>(en anglais)</i></li>
+		
+		   <li><a href="http://www.aquarela-paris.com" Target="_blank">Aquarela</a> - Paris, France</li>
+		   <li><a href="http://www.atabak.org" Target="_blank">Atabak</a> - Lille, France</li>
+		   <li><a href="http://www.dt.renshaw.ukonline.co.uk/index.htm">Bat-2-K</a> - Southampton, Royaume-Uni <i>(en anglais)</i></li>
+	
+		   <li><a href="http://www.eman.id-net.fr/html/batucada.htm" Target="_blank">Batucada del Mundo</a> - Nancy, France</li>
+		   <li><a href="http://blocodaqui.free.fr/" Target="_blank">Blocodaqui</a> propose des cours et des répétitions de percussions brésiliennes ouverts aux amateurs (débutants ou expérimentés).</li>
+
+		   <li><a href="http://www.samba-nantes.fr" Target="_blank">Cora&ccedil;&atilde;o do Brasil</a> - Nantes, France</li>
 		   <li><a href="http://www.edinburghsambaschool.org.uk/" Target="_blank">The Edinburgh Samba School</a>
-		   </li>		   <li><a href="http://www.macunaima.org" Target="_blank">Macuna&iuml;ma</a> - Bordeaux, France</li>				   <li><a href="http://www.multimania.com/pomele" Target="_blank">Pom&eacute;l&eacute;</a> - Cherbourg, France</li>		   <li><a href="http://www.quinta-feira.de" Target="_blank">Quinta Feira</a> - Hambourg, Allemagne <i>(en anglais)</i></li>		   <li><a href="http://www.sambayabamba.com" Target="_blank">Samba Ya Bamba</a> - Glasgow, Royaume-Uni <i>(en anglais)</i></li>				   <li><a href="http://www.afone.com/saravah" Target="_blank">Saravah</a> - Tours, France</li>		   <li><a href="http://www.lefourneau.com/artistes/transe_express/index.htm" Target="_blank">Transe Express</a> - Crest, France</li>		</ul> 
+		   </li>
+		   <li><a href="http://www.macunaima.org" Target="_blank">Macuna&iuml;ma</a> - Bordeaux, France</li>
+		
+		   <li><a href="http://www.multimania.com/pomele" Target="_blank">Pom&eacute;l&eacute;</a> - Cherbourg, France</li>
+		   <li><a href="http://www.quinta-feira.de" Target="_blank">Quinta Feira</a> - Hambourg, Allemagne <i>(en anglais)</i></li>
+		   <li><a href="http://www.sambayabamba.com" Target="_blank">Samba Ya Bamba</a> - Glasgow, Royaume-Uni <i>(en anglais)</i></li>
+		
+		   <li><a href="http://www.afone.com/saravah" Target="_blank">Saravah</a> - Tours, France</li>
+		   <li><a href="http://www.lefourneau.com/artistes/transe_express/index.htm" Target="_blank">Transe Express</a> - Crest, France</li>
+		</ul> 
 
 		
 		
