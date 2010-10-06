@@ -14,6 +14,7 @@
 SAISON 2010-2011</h1>
 <img class="center" alt="" src="../img/cours/cours.jpeg" height="267" width="425">
 
+    <h2 style="font-style:italic; color:red">Les cours sont complets pour 2010-2011</h2>
 <p>
 Samba Résille a développé son <b>école associative</b> toujours dans le même but solidaire et citoyen de donner accès à l'art. Que l'on soit virtuose, ou plutôt "gauche" de la musique, <b>chacun trouve sa place</b>,
 parce qu'on ne vient pas à Samba Résille pour ressortir diplômé de Samba, on vient y découvrir un patrimoine culturel riche et varié, d'influences multiethnique tout comme l'est le pays qui l'abrite.<br/>
@@ -82,8 +83,9 @@ distribuées gratuitement en début d'année, mais devront &ecirc;tre achetées par 
     </table>
     <hr/>
     <h2 style="text-align:center">COMMENT S'INSCRIRE ?</h2>
-    <p>
-    <b>Les inscriptions débutent à partir du 1er Juillet 2010.</b><br/>
+    <!--<p>
+    <b>Les inscriptions débutent à partir du 1er Juillet 2010.</b><br/>-->
+    <h2 style="font-style:italic; color:red">Les cours sont complets pour 2010-2011</h2>
     <br/>
     Vous pouvez :<br/>
     venir directement au local de l'association, 38 rue Roquelaine Toulouse,<br/>
