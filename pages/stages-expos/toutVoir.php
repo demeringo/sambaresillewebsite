@@ -16,9 +16,21 @@
 <br/>
 <hr/>
 <br/>
+
+<h3 style="text-align:center">du 1er au 29 octobre 2010</h3>
+<h2><a href="viva_la_danza.php">Viva la Danza - Village de Naolinco - Mexique</a></h2>
+<p>Photographies</p>
+<p>Exposition de Abigaël CUENCA</p>
+<br/>
+<br/>
+<br/>
+<hr/>
+<br/>
+
+
 <h3 style="text-align:center">à partir du 3 juin 2010</h3>
 <h2><a href="expo-Zia-Zeff.php">Les indiens d'amazonie</a></h2>
-<p>Expo photo</p>
+<p>Photographies</p>
 <p>Par Zia Zff</p>
 <br/>
 <br/>

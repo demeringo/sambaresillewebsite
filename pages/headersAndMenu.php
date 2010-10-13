@@ -43,8 +43,8 @@
     <div id="news"> <!-- START News -->
 		
 		<div id="expo"> <!-- START Expo -->
-			<!-- <h1>Stage de clown</h1>
-			<p><a href="/publicSite/pages/stages-expos/stageClown_mai_2010.php">Par David Lucas (association Zicomatic), 22, 23 et 24 mai</a></p>-->
+			<h1>Viva la Danza - Village de Naolinco - Mexique</h1>
+			<p><a href="/publicSite/pages/stages-expos/viva_la_danza.php">Expo photo de Abigaël Cuenca du 1er au 29 octobre</a></p>
 			<p><a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a></p>
 		</div> <!-- END Expo -->
 	    <hr/>
