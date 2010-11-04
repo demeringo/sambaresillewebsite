@@ -16,6 +16,17 @@
 <br/>
 <hr/>
 <br/>
+<h3 style="text-align:center">du 3 au 29 novembre</h3>
+<h2><a href="la_femme_fleur.php">La Femme fleur s'invite</a></h2>
+<p>Expo individuelle et collective</p>
+<p>par Nadi.H.cas-</p>
+<br/>
+<br/>
+<br/>
+<hr/>
+<br/>
+
+
 
 <h3 style="text-align:center">du 1er au 29 octobre 2010</h3>
 <h2><a href="viva_la_danza.php">Viva la Danza - Village de Naolinco - Mexique</a></h2>

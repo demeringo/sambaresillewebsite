@@ -43,8 +43,8 @@
     <div id="news"> <!-- START News -->
 		
 		<div id="expo"> <!-- START Expo -->
-			<h1>Viva la Danza - Village de Naolinco - Mexique</h1>
-			<p><a href="/publicSite/pages/stages-expos/viva_la_danza.php">Expo photo de Abigaël Cuenca du 1er au 29 octobre</a></p>
+			<h1>La Femme fleur s'invite !</h1>
+			<p><a href="/publicSite/pages/stages-expos/la_femme_fleur.php">Expo individuelle et collective du 3 au 29 novembre</a></p>
 			<p><a href="/publicSite/pages/stages-expos/toutVoir.php">Tous les stages et expos</a></p>
 		</div> <!-- END Expo -->
 	    <hr/>
